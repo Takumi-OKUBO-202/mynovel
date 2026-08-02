@@ -14,7 +14,8 @@
 | `bible/world/factions.md` | ギルド・勢力・NPC組織 |
 | `bible/timeline.md` | 作中の時系列 |
 | `bible/glossary.md` | ゲーム内固有名詞などの用語集 |
-| `plot/outline.md` | 全体プロット(結末までの流れ) |
+| `plot/outline.md` | 全体プロット(確定事項。結末までの流れ) |
+| `plot/brainstorm.md` | ブレインストーミングログ(検討中・没案も含む発散的アイデアの記録。確定したら`plot/outline.md`へ転記) |
 | `plot/arcs/` | 章(アーク)単位のプロット |
 | `plot/foreshadowing.md` | 伏線トラッカー(仕込み話数・回収話数・状態) |
 | `research/trends/` | 市場リサーチ(なろう/カクヨムのランキング・タグ傾向)の成果物 |
@@ -41,6 +42,7 @@
 
 ## エージェント一覧(`.claude/agents/`)
 
+- `idea-generator` — 発散的アイデア出し(まだ何も決まっていない段階でのブレインストーミング相手。`plot/brainstorm.md`に記録)
 - `market-researcher` — なろう/カクヨムのトレンド・ランキング調査
 - `continuity-editor` — 設定・伏線の整合性チェック(編集者役、本文は書き換えない)
 - `episode-drafter` — プロットと設定を踏まえた下書き生成
