@@ -43,6 +43,7 @@
 ## エージェント一覧(`.claude/agents/`)
 
 - `idea-generator` — 発散的アイデア出し(まだ何も決まっていない段階でのブレインストーミング相手。`plot/brainstorm.md`に記録)
+- `critic` — `bible/`の設定資料そのものの評価(網羅性・整合性・バランス・独自性)。本文は対象外(それは`continuity-editor`)。指摘を`idea-generator`への入力として使う
 - `market-researcher` — なろう/カクヨムのトレンド・ランキング調査
 - `continuity-editor` — 設定・伏線の整合性チェック(編集者役、本文は書き換えない)
 - `episode-drafter` — プロットと設定を踏まえた下書き生成
