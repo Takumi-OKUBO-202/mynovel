@@ -1,0 +1,54 @@
+# mynovel — VRMMOウェブ小説執筆プロジェクト
+
+なろう(小説家になろう)・カクヨム同時掲載を想定したVRMMOジャンルのウェブ小説プロジェクト。最終目標は書籍化・収益化。
+
+## ディレクトリ構成
+
+| ディレクトリ | 役割 |
+|---|---|
+| `manuscript/` | 本文。`part01/`のように部・章単位でディレクトリを分け、`_draft/`に執筆中の下書きを置く |
+| `bible/` | 世界観・設定の一元管理場所。**すべての整合性チェックはここを正とする** |
+| `bible/characters/` | キャラクターシート(1人1ファイル) |
+| `bible/world/game-system.md` | ステータス/レベル/スキルツリー/装備レアリティなどVRMMOシステム設定 |
+| `bible/world/locations.md` | マップ・ダンジョン設定 |
+| `bible/world/factions.md` | ギルド・勢力・NPC組織 |
+| `bible/timeline.md` | 作中の時系列 |
+| `bible/glossary.md` | ゲーム内固有名詞などの用語集 |
+| `plot/outline.md` | 全体プロット(結末までの流れ) |
+| `plot/arcs/` | 章(アーク)単位のプロット |
+| `plot/foreshadowing.md` | 伏線トラッカー(仕込み話数・回収話数・状態) |
+| `research/trends/` | 市場リサーチ(なろう/カクヨムのランキング・タグ傾向)の成果物 |
+| `research/competitors/` | 競合作品分析 |
+| `publishing/submission-log.md` | 新人賞応募・持ち込み履歴 |
+| `publishing/metrics.md` | PV・ブックマーク・評価ポイントの推移ログ |
+
+## 執筆フロー
+
+新しい話を書くときは `new-episode` スキル(`.claude/skills/new-episode/SKILL.md`)の手順に従う:
+
+1. `plot/arcs/` で該当話のプロットを確認(なければ先に作る)
+2. `episode-drafter` エージェントで下書きを `manuscript/_draft/` に生成
+3. `continuity-editor` エージェントで `bible/` と `plot/foreshadowing.md` に照らして矛盾チェック
+4. `proofreader` エージェントで誤字脱字・文体チェック
+5. 指摘を反映し `manuscript/partNN/` へ確定稿として移動
+6. `bible/timeline.md` と `plot/foreshadowing.md` を更新(仕込んだ伏線・回収した伏線を記録)
+
+市場リサーチや投稿タグ選定を行うときは `trend-research` スキル、新人賞応募や書籍化打診の準備をするときは `submission-prep` スキルを使う。
+
+## 文体規約
+
+(執筆開始時に確定させ、ここに記載する。例: 一人称/三人称、視点固定か複数視点か、だ・である調かです・ます調か、主人公の一人称呼称、ステータス表示の書式など)
+
+## エージェント一覧(`.claude/agents/`)
+
+- `market-researcher` — なろう/カクヨムのトレンド・ランキング調査
+- `continuity-editor` — 設定・伏線の整合性チェック(編集者役、本文は書き換えない)
+- `episode-drafter` — プロットと設定を踏まえた下書き生成
+- `proofreader` — 誤字脱字・文体統一チェック
+- `marketing-editor` — あらすじ・タイトル・タグ・書籍化用の紹介文作成
+
+## 重要な原則
+
+- **数値・設定の矛盾はVRMMOジャンルで最も読者が離脱する要因。** ステータス値やスキル名を本文に書く前に必ず`bible/world/game-system.md`を確認する
+- 伏線を仕込んだら必ず`plot/foreshadowing.md`に記録する。回収せずに終わらせない
+- `bible/`の内容を変更したら、既存話数との矛盾がないか`continuity-editor`で確認する
