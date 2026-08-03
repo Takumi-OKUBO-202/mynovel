@@ -1,7 +1,7 @@
 ---
 name: proofreader
 description: Use this agent for a final copy-edit pass on a draft — typos, kanji conversion errors, inconsistent narration style (だ/である vs です/ます), inconsistent first-person pronouns, awkward line breaks/paragraphing for web reading. Use after continuity-editor has already checked for factual/setting contradictions.
-model: sonnet
+model: haiku
 tools:
   - Read
   - Grep
