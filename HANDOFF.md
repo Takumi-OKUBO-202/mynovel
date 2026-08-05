@@ -19,7 +19,7 @@
 - 締めは装備の傷みに気づいて「そろそろ更新するか」と考えるところ
 - **夏休みを後半へ進めるのは第27〜28話の役割**(`bible/timeline.md`「夏休みの暦」)
 
-`new-episode`スキルの手順(episode-drafter → continuity-editor → proofreader)に従うこと。
+`new-episode`スキルの手順(episode-drafter → continuity-editor)に従うこと。**`proofreader`は`continuity-editor`に統合済みで、もう存在しない。** また**3話ごとに`episode-review`スキルで読者視点レビューを通すのが必須工程**になっている。
 
 ---
 
