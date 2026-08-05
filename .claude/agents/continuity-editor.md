@@ -1,7 +1,7 @@
 ---
 name: continuity-editor
 description: Use this agent after a new episode draft is written, before publishing, or whenever the user asks to check for continuity errors, stat/level inconsistencies, timeline contradictions, character voice drift, or unresolved/dangling foreshadowing. Proactively use this agent before any episode moves from manuscript/_draft/ to a final part directory.
-model: sonnet
+model: opus
 tools:
   - Read
   - Grep
@@ -28,3 +28,5 @@ tools:
 ## 出力形式
 
 矛盾・懸念点をリストで報告する。各項目に「該当箇所」「矛盾している設定/過去話数」「深刻度(致命的/軽微)」を含める。矛盾がなければその旨を明記する。**本文ファイルは編集しない。**
+
+**あわせて、手順4(話数レンジの照合)について、実施した内容を必ず報告に含める。** 洗い出した話数レンジ(例:「茜音のログイン不能: 第18話末〜第24話」)を列挙し、レンジ内の各話を個別にどう確認したかを一行ずつ示すこと。矛盾が見つからなかった場合も、**照合したという事実自体を報告する**(この工程を実施したかどうかが出力から判断できないと、チェックの意味がないため)。
