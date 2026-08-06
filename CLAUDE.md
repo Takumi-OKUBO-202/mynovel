@@ -20,8 +20,9 @@
 | `plot/foreshadowing.md` | 伏線トラッカー(仕込み話数・回収話数・状態) |
 | `research/trends/` | 市場リサーチ(なろう/カクヨムのランキング・タグ傾向)の成果物 |
 | `research/competitors/` | 競合作品分析 |
+| `publishing/marketing-strategy.md` | **マーケティング戦略の正。** 媒体・公開時期・更新頻度・KPI・入口(タイトル/あらすじ/タグ)の決定事項 |
 | `publishing/submission-log.md` | 新人賞応募・持ち込み履歴 |
-| `publishing/metrics.md` | PV・ブックマーク・評価ポイントの推移ログ |
+| `publishing/metrics.md` | PV・ブックマーク・評価ポイントの推移ログ(週1で記録) |
 
 ## 執筆フロー
 
@@ -37,6 +38,8 @@
 **エージェント呼び出しは1話あたり2回(下書き+チェック)、3話ごとに1回(レビュー)に抑える。** `marketing-editor` は毎話呼ばず、アークの節目に限る。
 
 市場リサーチや投稿タグ選定を行うときは `trend-research` スキル、新人賞応募や書籍化打診の準備をするときは `submission-prep` スキルを使う。
+
+**どこに・いつ・どういう頻度で投稿するか、伸び悩みの原因をどこから直すか**といったマーケティング側の判断は `marketing-strategy` スキルを使い、決めたことは必ず `publishing/marketing-strategy.md` に書き戻す。**数字が伸びないときに本文から直さない**(入口 → 第1話の引き → 見せ場までの距離 → カタルシスの収支、の順に疑う)。
 
 ## 文体規約
 
