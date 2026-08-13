@@ -1,21 +1,21 @@
-# 日英対訳フレーズ集 第二弾 — ビジネス会議の汎用表現と構文
+# 日英対訳フレーズ集 第二弾 — インド出張・対面会議(8月)想定
 #
 # 書式は phrases.txt と同じ。「#」で始まる行はコメント(読み上げません)。
 # それ以外の行を、上から「日本語」「英語」の2行1組として読み上げます。
 #
-# 第一弾(phrases.txt)が o9 との要件定義に特化した自分用スクリプトなのに対し、
-# こちらはどの会議でも使い回せる汎用表現に振ってあります。重複はありません。
+# 第一弾(phrases.txt)が o9 との要件定義で話す内容そのものの原稿なのに対し、
+# こちらは会議の進め方・場のつくり方に使う表現。例文の中身は o9 との
+# 打ち合わせを想定して作ってあります。第一弾との重複はありません。
+#
+# 想定シーン: インドのオフィスを訪問して行う対面会議。8月(雨季・独立記念日前後)。
 
 # ===== Part1 ① 会議を始める・場をつくる =====
 
-皆さん、聞こえていますか？
-Can everyone hear me okay?
+本日はお招きいただきありがとうございます。
+Thank you for having us today.
 
 全員そろったようなので、始めましょうか。
 Looks like we're all here, so let's get started.
-
-本日はお時間をいただきありがとうございます。
-Thank you for making the time today.
 
 本題に入る前に、簡単に自己紹介をしましょうか。
 Before we dive in, should we do quick introductions?
@@ -23,8 +23,8 @@ Before we dive in, should we do quick introductions?
 今日のゴールを最初に確認させてください。
 Let me start by confirming what we want to get out of today.
 
-今日は3つ扱いたいことがあります。
-There are three things I'd like to cover today.
+今日は倉庫間移動の計画について3つ扱いたいことがあります。
+There are three things I'd like to cover today, all around transfer planning.
 
 議題は事前にお送りしたものと同じです。
 The agenda is the same one I sent in advance.
@@ -35,59 +35,62 @@ Is there anything else you'd like to add to the agenda?
 途中でも遠慮なく止めてください。
 Feel free to stop me at any point.
 
-録画してもよろしいでしょうか？
-Would it be okay if I record this?
+メモを取らせていただきます。
+I'll be taking notes as we go, if that's all right.
+
+ホワイトボードを使ってもよろしいですか。
+Do you mind if I use the whiteboard?
 
 
-# ===== Part1 ② 雑談・アイスブレイク =====
+# ===== Part1 ② 雑談・アイスブレイク(インド出張) =====
 
-今そちらは何時ですか？
-What time is it where you are?
+昨日の夜に着きました。
+We got in last night.
 
-こちらは今、夜の9時です。
-It's nine in the evening here.
+日本からのフライトは長かったです。
+It was a long flight from Japan.
 
-時差があるのに、お時間を合わせていただいてありがとうございます。
-Thanks for working around the time difference.
+インドに来るのは初めてです。
+This is my first time in India.
 
-朝早くからすみません。
-Sorry for the early start on your end.
+直接お会いできてうれしいです。
+It's great to finally meet you in person.
 
-週末はどう過ごされましたか？
-How was your weekend?
+画面越しではなく、こうしてお話しできるのはいいですね。
+It's nice to talk like this instead of through a screen.
 
-こちらは3連休でした。
-We had a three-day weekend here.
+思っていたより涼しいですね。
+It's cooler here than I expected.
 
-日本には来られたことがありますか？
-Have you ever been to Japan?
+今は雨季なんですね。
+So this is the monsoon season.
 
-次に来られるときは、ぜひご案内します。
-Next time you're over here, I'd be happy to show you around.
+日本の8月はもっと蒸し暑いです。
+August in Japan is much more humid than this.
 
-東京は今、桜の季節です。
-It's cherry blossom season in Tokyo right now.
+朝の交通量には驚きました。
+The traffic this morning was something else.
 
-こちらは梅雨で、毎日雨が降っています。
-We're in the rainy season here, so it rains every day.
+独立記念日が近いですね。
+Independence Day is coming up, isn't it?
 
-出張はいかがでしたか？
-How was your trip?
+こちらの料理はどれもおいしいです。
+The food here has been excellent.
 
-時差ぼけはもう大丈夫ですか？
-Are you over the jet lag yet?
+辛いものは大丈夫です。
+I'm fine with spicy food.
 
-最近は在宅と出社、どちらが多いですか？
-Are you mostly working from home these days, or going into the office?
+おすすめのお店はありますか。
+Is there anywhere you'd recommend?
 
-日本食は召し上がりますか？
-Do you eat Japanese food?
+クリケットはご覧になりますか。
+Do you follow cricket?
 
-お仕事以外では何をされているんですか？
-What do you get up to outside of work?
+今回は3日間の滞在です。
+We're here for three days this time.
 
-ようやくお顔が見られてうれしいです。
-It's good to finally put a face to the name.
+次はぜひ日本にお越しください。
+Next time, you should come and visit us in Japan.
 
 
 # ===== Part1 ③ 自己紹介・相手を知る =====
@@ -95,20 +98,20 @@ It's good to finally put a face to the name.
 改めて自己紹介させてください。
 Let me introduce myself properly.
 
-社内システムの設計を担当しています。
-I'm responsible for designing our internal systems.
+名刺をお渡しします。
+Here's my card.
+
+サントリーで社内システムの設計を担当しています。
+I work on internal systems design at Suntory.
+
+需要計画と在庫まわりのシステムを長く見ています。
+I've spent a lot of time on demand planning and inventory systems.
 
 この仕事は10年ほどやっています。
 I've been doing this kind of work for about ten years.
 
 前職では開発をしていました。
 In my previous role, I was a developer.
-
-今のチームには3年います。
-I've been with this team for three years.
-
-このプロジェクトでは技術面を担当します。
-On this project, I'll be covering the technical side.
 
 何かあれば、まず私にご連絡ください。
 If anything comes up, please come to me first.
@@ -119,35 +122,35 @@ This is Sato, from my team.
 データまわりを担当しているメンバーです。
 They handle everything on the data side.
 
-ご担当はどのような業務ですか？
+ご担当はどのような業務ですか。
 What does your role involve?
 
-チームは何名くらいですか？
+チームは何名くらいですか。
 How big is your team?
 
-この分野はもう長いのですか？
-Have you been in this field long?
+o9には長くいらっしゃるのですか。
+Have you been at o9 long?
 
-普段はどちらを拠点にされているんですか？
-Where are you normally based?
+普段はどちらのオフィスにいらっしゃいますか。
+Which office are you normally based out of?
 
-今日はそちらからどなたが参加されますか？
-Who'll be joining from your side today?
+日本のお客様を担当されるのは初めてですか。
+Is this your first time working with a Japanese customer?
 
 
 # ===== Part1 ④ 意見を述べる =====
 
-私の考えでは、これは設計の問題です。
-In my view, this is a design issue.
+私の考えでは、これはデータモデルの問題です。
+In my view, this is a data model issue.
 
-個人的には、後者のほうがよいと思います。
-Personally, I'd go with the second option.
+個人的には、後者の設計のほうがよいと思います。
+Personally, I'd go with the second design.
 
-現場の感覚としては、それは難しいと思います。
-From what I see on the ground, I think that would be difficult.
+現場の感覚としては、それは運用に載らないと思います。
+From what I see on the ground, I don't think that would survive in operation.
 
-一つ引っかかっているのは、運用の負荷です。
-One thing I keep coming back to is the operational load.
+一つ引っかかっているのは、マスタ運用の負荷です。
+One thing I keep coming back to is the master data workload.
 
 私が一番重視しているのはそこです。
 That's the part I care about most.
@@ -158,8 +161,8 @@ I don't want to overstate it, but I'm against it.
 正直に申し上げてもよろしいですか。
 Can I be honest with you?
 
-これは私の意見であって、決定ではありません。
-This is my opinion, not a decision.
+これは私の意見であって、社としての決定ではありません。
+This is my opinion, not a company decision.
 
 まだ考えがまとまっていませんが、共有します。
 My thinking isn't fully formed, but let me share it anyway.
@@ -185,8 +188,8 @@ I agree in principle, but with one condition.
 おっしゃることは分かりますが、私の見方は違います。
 I see what you mean, but I see it differently.
 
-申し上げにくいのですが、それは受け入れられません。
-I hate to say it, but we can't accept that.
+申し上げにくいのですが、その設計は受け入れられません。
+I hate to say it, but we can't accept that design.
 
 その前提には同意できません。
 I can't agree with that assumption.
@@ -221,8 +224,8 @@ I've thought about a different way to do this.
 折衷案を出してもよろしいですか。
 Can I offer a middle ground?
 
-まず小さく試してみませんか。
-Why don't we start small and test it?
+まず一つの倉庫で試してみませんか。
+Why don't we try it at one warehouse first?
 
 段階的に進めることを提案します。
 I'd suggest we do this in phases.
@@ -230,11 +233,11 @@ I'd suggest we do this in phases.
 第一段階では最低限の機能に絞りましょう。
 For phase one, let's limit it to the essentials.
 
-その代わりに、こちらで対応します。
-Instead, we'll handle it on our side.
+その代わりに、前処理はこちらで対応します。
+Instead, we'll handle the pre-processing on our side.
 
-両方やる必要はないと思います。
-I don't think we need to do both.
+両方の方式を作る必要はないと思います。
+I don't think we need to build both approaches.
 
 順番を入れ替えたほうがよさそうです。
 I think we should swap the order.
@@ -245,8 +248,8 @@ I think we should swap the order.
 一つお願いしてもよろしいですか。
 Could I ask you for one thing?
 
-資料を事前にいただけると助かります。
-It would help if we could get the materials in advance.
+設計書を事前にいただけると助かります。
+It would help if we could get the design document in advance.
 
 来週までにご回答いただけますか。
 Could you get back to us by next week?
@@ -260,8 +263,8 @@ I know I'm asking a lot here.
 お気持ちはありがたいのですが、今回は見送ります。
 I appreciate the offer, but we'll pass this time.
 
-残念ですが、今回はお受けできません。
-Unfortunately, we can't take that on this time.
+残念ですが、その進め方はお受けできません。
+Unfortunately, we can't go along with that approach.
 
 今のリソースでは対応できません。
 We don't have the resources for that right now.
@@ -287,11 +290,11 @@ To put it another way, ...
 簡単に言うと、こういうことです。
 Put simply, it comes down to this.
 
-背景から説明させてください。
-Let me give you some background first.
+まず業務の背景から説明させてください。
+Let me give you some background on the business side first.
 
-順を追って説明します。
-Let me take it step by step.
+工場から得意先まで、順を追って説明します。
+Let me take it step by step, from the plant to the customer.
 
 三つに分けて説明します。
 Let me break it into three parts.
@@ -302,8 +305,8 @@ This is the most important part.
 細かい話は割愛します。
 I'll skip the details for now.
 
-図でお見せしたほうが早いと思います。
-I think it's faster if I show you a diagram.
+ホワイトボードに描いたほうが早いと思います。
+I think it's faster if I draw it on the whiteboard.
 
 
 # ===== Part1 ⑨ 議論を仕切る・割って入る =====
@@ -341,28 +344,28 @@ We're running behind, so let's move on.
 
 # ===== Part1 ⑩ 数字・期間・傾向を語る =====
 
-おおよそ3割ほどです。
-It's roughly thirty percent.
+出荷量はおおよそ3割ほど増えています。
+Shipment volume is up by roughly thirty percent.
 
-去年と比べて2割増えています。
-It's up twenty percent compared to last year.
+去年の同じ時期と比べて2割多いです。
+It's twenty percent higher than the same period last year.
 
-横ばいで推移しています。
-It's been flat.
+在庫は横ばいで推移しています。
+Inventory has been flat.
 
-右肩上がりに増えています。
-It's been climbing steadily.
+拠点の数は右肩上がりに増えています。
+The number of locations has been climbing steadily.
 
-月末に大きく跳ね上がります。
-It spikes sharply at the end of the month.
+需要は月末に大きく跳ね上がります。
+Demand spikes sharply at the end of the month.
 
-早ければ4月、遅くとも6月です。
-April at the earliest, June at the latest.
+早ければ4月、遅くとも6月の稼働です。
+Go-live would be April at the earliest, June at the latest.
 
-3ヶ月ほど見ていただければと思います。
-I'd say give it about three months.
+検証には3ヶ月ほど見ていただければと思います。
+I'd say give us about three months for validation.
 
-想定の倍かかっています。
+想定の倍の時間がかかっています。
 It's taking twice as long as we expected.
 
 誤差の範囲だと考えています。
@@ -383,14 +386,14 @@ There's a risk I'd like to flag.
 最悪の場合を想定しておきたいです。
 I'd like us to plan for the worst case.
 
-これは今すぐではなく、将来の問題です。
-This isn't an issue today, but it will be later.
+これは稼働直後ではなく、その先の問題です。
+This isn't a go-live issue, it's what comes after.
 
-ここが一番の不安要素です。
-This is the part that worries me most.
+マスタの量がここでの一番の不安要素です。
+The volume of master data is what worries me most here.
 
-前提が崩れると、全体が崩れます。
-If that assumption breaks, everything else breaks with it.
+前提が崩れると、計画全体が崩れます。
+If that assumption breaks, the whole plan breaks with it.
 
 想定していなかった影響が出ています。
 We're seeing effects we didn't anticipate.
@@ -446,20 +449,20 @@ Anything else before we finish?
 今日は建設的な議論ができました。
 I thought that was a productive discussion.
 
-お時間をいただきありがとうございました。
-Thank you for your time today.
+明日も同じ時間でよろしいですか。
+Same time again tomorrow?
+
+今日はお時間とおもてなしをありがとうございました。
+Thank you for your time and your hospitality today.
+
+帰国したら、内容を整理してお送りします。
+I'll write everything up and send it over once I'm back in Japan.
 
 続きは次回にしましょう。
 Let's pick this up next time.
 
-次回の日程を決めましょう。
-Let's set a date for the next one.
-
 何かあればメールでご連絡ください。
 Feel free to email me if anything comes up.
-
-議論の内容を整理してお送りします。
-I'll write up what we discussed and send it over.
 
 引き続きよろしくお願いします。
 I look forward to working with you on this.
@@ -476,8 +479,8 @@ Deliveries tend to slip toward the end of the month.
 〜する価値がある
 be worth doing
 
-一度試してみる価値はあると思います。
-I think it's worth trying once.
+一つの倉庫で試してみる価値はあると思います。
+I think it's worth trying it at one warehouse first.
 
 〜せざるを得ない
 have no choice but to
@@ -548,8 +551,8 @@ There's no need to decide everything now.
 〜したほうがいい
 be better off doing
 
-別々に扱ったほうがいいと思います。
-I think we're better off handling them separately.
+鮮度チェックとロット順序は別々に扱ったほうがいいと思います。
+I think we're better off handling the shelf-life check and the lot order separately.
 
 危うく〜するところだった
 nearly
@@ -602,8 +605,8 @@ Far from improving, it's gotten worse.
 せいぜい〜
 at most
 
-せいぜい2、3人です。
-Two or three people at most.
+これを扱えるのはせいぜい2、3人です。
+We have two or three people who can handle this, at most.
 
 少なくとも〜
 at least
