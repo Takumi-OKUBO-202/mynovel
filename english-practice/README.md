@@ -14,31 +14,43 @@ o9 Solutions との要件定義ミーティング向けの日英対訳(222組)�
 
 ## Mac での手順
 
-### 1. ファイルを1つのフォルダに置く
-
-デスクトップに `english` という名前のフォルダを作り、その中に
-**`make_audio.py` と `phrases.txt` の2つ**を入れてください。
-
-### 2. ターミナルを開く
+### 1. ターミナルを開く
 
 `Command` + `Space` を押して「ターミナル」と打ち、Enter。黒い(または白い)文字だけの
 ウィンドウが出ます。以降はここにコマンドを貼り付けて Enter を押していきます。
 
-### 3. 準備(初回だけ)
+### 2. ファイルを取ってくる
 
-次の4行を**まとめてコピーして貼り付け**、Enter を押してください。1〜2分かかります。
+次の5行を**まとめてコピーして貼り付け**、Enter。
 
 ```bash
-cd ~/Desktop/english
+mkdir -p ~/Desktop/English && cd ~/Desktop/English
+BASE=https://raw.githubusercontent.com/Takumi-OKUBO-202/mynovel/claude/business-japanese-phrases-mjsca4/english-practice
+curl -fLO $BASE/make_audio.py
+curl -fLO $BASE/phrases.txt
+wc -l make_audio.py phrases.txt
+```
+
+最後に **`354 make_audio.py`** と **`718 phrases.txt`** と表示されれば成功です。
+行数が違う場合は取得に失敗しているので、もう一度実行してください。
+
+> ブラウザやチャットからファイルを保存する方法だと、**ダウンロードに失敗したときに
+> エラーページの中身がそのままファイル名だけ正しく保存される**ことがあります
+> (実行すると1行目で `SyntaxError` になる)。curl なら失敗が失敗として分かるので確実です。
+
+### 3. 準備(初回だけ)
+
+次の3行を貼り付けて Enter。1〜2分かかります。
+
+```bash
 python3 -m venv .venv
 source .venv/bin/activate
 pip install edge-tts imageio-ffmpeg
 ```
 
-- 1行目 … さっき作ったフォルダに移動する
-- 2〜3行目 … このフォルダ専用の Python 環境を作る(Mac に元から入っている
+- 1〜2行目 … このフォルダ専用の Python 環境を作る(Mac に元から入っている
   Python を汚さないため。`pip install` が権限エラーで失敗するのも防げます)
-- 4行目 … 必要なものを2つ入れる
+- 3行目 … 必要なものを2つ入れる
   - **edge-tts** … Microsoft Edge の読み上げ音声。無料、アカウント登録不要
   - **imageio-ffmpeg** … 音声の連結に使う ffmpeg。これも pip で入るので別途インストールは不要
 
@@ -75,7 +87,7 @@ open .
 ターミナルを閉じたあとにもう一度やるときは、この2行から始めてください。
 
 ```bash
-cd ~/Desktop/english
+cd ~/Desktop/English
 source .venv/bin/activate
 ```
 
@@ -143,7 +155,9 @@ This one is a must-have for us.
 | `command not found: python3` | ターミナルで `xcode-select --install` を実行(Apple の Python が入ります) |
 | `pip: command not found` | `source .venv/bin/activate` を実行し忘れています。手順3をやり直してください |
 | `externally-managed-environment` | 同上。`.venv` を有効にしてから `pip install` してください |
+| 1行目が `<?xml` で `SyntaxError` | ファイルの中身がダウンロードエラーのページになっています。手順2の curl で取り直してください |
 | `403` や `No server date in headers` | `pip install -U edge-tts`(トークンの仕様変更で古い版が弾かれます) |
+| `403` が何度も出る | 取得が速すぎる可能性があります。`--concurrency 2` を付けて実行 |
 | 会社のネットワークで繋がらない | `--proxy http://プロキシ:ポート` を付ける |
 | 途中で止まった | 同じコマンドを再実行(キャッシュから再開します) |
 | 音がおかしい・途切れる | `.cache-tts/` フォルダを削除して作り直す |
