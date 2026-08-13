@@ -1,0 +1,718 @@
+# 日英対訳フレーズ集(o9 要件定義ミーティング用)
+#
+# 書式: 「#」で始まる行はコメント(読み上げません)。空行は自由に入れて構いません。
+#       それ以外の行を、上から「日本語」「英語」の2行1組として読み上げます。
+#       追加・修正するときは、この2行1組の並びだけ崩さないようにしてください。
+
+# ===== Part1 ① 確認・深掘り =====
+
+確認させてください。それは標準機能ですか、それともカスタマイズが必要ですか？
+Just to be clear, is that standard functionality, or would it require customization?
+
+「できる」というのは、標準のままでという意味ですか？
+When you say it's possible, do you mean out of the box?
+
+それは今使えますか、それともロードマップ上のものですか？
+Is that available today, or is it on the roadmap?
+
+どのリリースに含まれますか？
+Which release would that be in?
+
+それはライセンスに含まれますか、それとも追加費用ですか？
+Would that be included in the license, or is it an additional cost?
+
+それは我々の側では何が必要になりますか？
+What would that involve on our side?
+
+実際にどう動くのか、順を追って説明していただけますか？
+Could you walk me through how that would actually work?
+
+実データでの例を見せていただけますか？
+Could you show us an example with real data?
+
+他のお客様でそういう使い方をしている事例はありますか？
+Do you have other customers using it that way?
+
+つまり私の理解では〜ということですね。合っていますか？
+So if I understand correctly, is that right?
+
+それはエンタープライズプラン前提ということですね？
+And that's assuming we're on the enterprise plan, right?
+
+
+# ===== Part1 ② 詰まった時のリカバリー =====
+
+言い直させてください。
+Let me rephrase that.
+
+すみません、もう一度言い直します。
+Sorry, let me start again.
+
+どう言えばいいかな。
+How do I put this...
+
+探している言葉は。
+The word I'm looking for is...
+
+何て言うんでしたっけ、あの。
+What's it called... the one that...
+
+ぱっと思いつく限りでは、200ユーザーくらいだと思います。
+Off the top of my head, I think it's around 200 users.
+
+という感じです、伝わりますでしょうか。
+..., if that makes sense.
+
+ご質問の答えになっていますか？
+Does that answer your question?
+
+いい質問ですね。少し考えさせてください。
+That's a good question. Let me think for a second.
+
+少し後で戻ってもいいですか？
+Can I come back to that in a moment?
+
+
+# ===== Part1 ③ 優先度の明示 =====
+
+これは我々にとって必須要件です。
+This one is a must-have for us.
+
+あれば嬉しいですが、必須ではありません。
+That would be nice to have, but it's not critical.
+
+これは譲れません。これなしでは稼働できません。
+This is a deal breaker. We can't go live without it.
+
+優先順位をつけるなら、まずA、次にBです。
+If I had to prioritize, I'd say A first, then B.
+
+UIは柔軟に考えられますが、キャパシティ制約は譲れません。
+We can be flexible on the UI, but not on the capacity constraint.
+
+これは我々の側では交渉の余地がありません。
+This is non-negotiable on our side.
+
+これはソフト制約ではなくハード制約として扱いたいです。
+I want to treat this as a hard constraint, not a soft one.
+
+
+# ===== Part1 ④ 保留・持ち帰り =====
+
+その点はチームに確認が必要です。
+I'd need to check with our team on that.
+
+今週中にお返事するということでよろしいですか？
+Can I get back to you on that by the end of this week?
+
+それを書面でいただけますか？
+Could you send that to us in writing?
+
+一旦保留にして、後で戻りましょう。
+Let's park that for now and come back to it.
+
+それは別途個別に話しませんか？
+Can we take that offline?
+
+正確にお答えしたいので、まず社内で確認させてください。
+I want to give you an accurate answer, so let me confirm internally first.
+
+
+# ===== Part1 ⑤ 会議のナビゲーション =====
+
+先ほどのキャパシティの話に戻りますが。
+Going back to your earlier point about the capacity...
+
+次に行く前に、1点だけ確認していいですか？
+Before we move on, can I just check one thing?
+
+残り15分ほどなので、アラートの話に移りましょうか。
+We've got about 15 minutes left, so maybe we should move on to the alerts.
+
+それは後で戻ってもいいですか？先にロットのロジックを扱いたいです。
+Can we come back to that later? I'd like to cover the lot logic first.
+
+それは関連しますが少し別の話です。分けて説明させてください。
+That's related, but slightly different. Let me separate the two.
+
+認識を合わせるために確認ですが。
+Just to make sure we're on the same page, ...
+
+
+# ===== Part1 ⑥ クロージング =====
+
+本日合意した内容をまとめますと。
+So, just to recap what we've agreed on today...
+
+まとめると、そちらはXを社内確認、我々はYをお送りします。
+To summarize: you'll check X internally, and we'll send you Y.
+
+そちら側の次のアクションは何になりますか？
+What are the next steps from your side?
+
+ドキュメントはいつ頃いただけますか？
+When can we expect the documentation?
+
+技術的な質問はどなたに連絡すればよいですか？
+Who should we contact for technical questions?
+
+認識を合わせるため、未決事項の一覧を共有いただけますか？
+Could you share a list of open items so we're aligned?
+
+
+# ===== Part1 ⑦ 教材からの採用表現 =====
+
+ちょっとした興味なのですが
+just out of curiosity
+
+ちょっと興味なのですが、サプライチェーン計画にはどれくらい携わっているんですか？
+Just out of curiosity, how long have you been working on supply chain planning?
+
+話は逸れますが
+off-topic, but
+
+話は逸れますが、そちらはまだこんなに暑いんですか？
+Bit off-topic, but is it still this hot over there?
+
+〜ぶりに
+for the first time in
+
+1年ぶりにアメリカに来ました。
+I'm visiting the US for the first time in a year.
+
+全般的に
+in general
+
+この時期、そちらの天気は全般的にどんな感じですか？
+What's the weather like there in general this time of year?
+
+〜している最中
+in the process of
+
+我々は物流バリューチェーン全体を再設計している最中です。
+We're in the process of redesigning our entire logistics value chain.
+
+〜の観点では
+in terms of
+
+量の観点では、1日あたり数万件を想定しています。
+In terms of volume, we're looking at tens of thousands of records a day.
+
+〜であることを踏まえると
+given that
+
+拠点が約7,000あることを踏まえると、マスタ運用は本当に懸念です。
+Given that we have around 7,000 locations, master data maintenance is a real concern.
+
+これは〜なものです
+this is something that
+
+これは現在、業務部門が手作業でやっているものです。
+This is something that our business team currently does manually.
+
+その理由は
+the reason being
+
+これはハード制約として扱います。理由は、保管スペースが物理的に限られているからです。
+We treat it as a hard constraint. The reason being our storage space is physically limited.
+
+〜のために
+for the sake of
+
+明確にするため、まず現行プロセスを説明させてください。
+For the sake of clarity, let me walk through our current process first.
+
+〜のはずだ
+be supposed to do
+
+在庫はロット順に動くはずですが、実際は必ずしもそうではありません。
+The stock is supposed to move in lot order, but in practice it doesn't always.
+
+仮に〜だとします
+let's say
+
+仮に需要が急増して全国的に在庫が不足したとします。その場合どうなりますか？
+Let's say demand spikes and stock runs low nationwide. What happens then?
+
+その場合は
+in which case
+
+在庫が不足するかもしれません。その場合は全倉庫の安全在庫を調整します。
+The stock might run low, in which case we adjust safety stock across all warehouses.
+
+もし〜だったら
+what if
+
+もし古いロットが遠方の倉庫にあって、新しいロットが近くにあったらどうなりますか？
+What if the older lot is in a distant warehouse and the newer one is nearby?
+
+たとえ〜でも
+even if
+
+たとえシステムが提案しても、古いロットより新しいロットを先に出すことはできません。
+Even if the system suggests it, we can't ship a newer lot before an older one.
+
+それはもっともですね。
+That's a fair point.
+
+確かにそうですね。
+That's true.
+
+間違っているかもしれませんが
+I might be wrong, but
+
+間違っているかもしれませんが、それは我々の鮮度ルールと矛盾すると思います。
+I might be wrong, but I think that would conflict with our shelf-life rule.
+
+〜だと思います
+I'd say
+
+それで我々のケースの8割くらいはカバーできると思います。
+I'd say that covers about 80% of our cases.
+
+しかし同時に
+but at the same time
+
+それは我々には有効ですが、同時にロット単位の可視性を失ってしまいます。
+That works for us, but at the same time, we'd lose visibility on the lot level.
+
+〜というわけではない
+it's not that
+
+自動化したくないわけではありません。むしろ、結果をどこまで信頼できるかの問題です。
+It's not that we don't want to automate. It's more about how much we can trust the output.
+
+どちらかというと〜です
+it's more like
+
+明文化されたルールというより、長年の慣習に近いです。
+It's not really a written rule. It's more like a long-standing practice.
+
+〜ではなく
+instead of / rather than
+
+カスタマイズではなく、設定変更で対応できませんか？
+Instead of customizing, could we handle this with a configuration change?
+
+私だけかもしれませんが
+this might be just me, but
+
+私だけかもしれませんが、そのスケジュールは少しタイトに感じます。
+This might be just me, but that timeline feels a bit tight.
+
+一方で
+whereas
+
+多くの国では倉庫スペースは比較的柔軟ですが、一方で日本では非常に限られています。
+In many countries warehouse space is relatively flexible, whereas in Japan it's very limited.
+
+〜と言われています
+It's said that
+
+日本の消費者は特に鮮度に敏感だと言われています。
+It's said that Japanese consumers are especially sensitive about freshness.
+
+〜の観点から
+from the perspective of
+
+品質部門の観点からは、これは障害になります。
+From the perspective of our quality team, this is a blocker.
+
+その観点では
+from that point of view
+
+その観点では、ご提案は理にかなっています。
+From that point of view, your suggestion makes sense.
+
+〜のことになると
+when it comes to
+
+鮮度のことになると、我々の社内基準は法定基準より厳しいです。
+When it comes to shelf life, our internal standard is stricter than the legal one.
+
+AだからといってBとは限らない
+just because A doesn't mean B
+
+法的に問題ないからといって、得意先が受け入れるとは限りません。
+Just because it's legally allowed doesn't mean our customers will accept it.
+
+必ずしも〜ではない
+not necessarily
+
+我々の組織では必ずしもそうは動きません。
+That's not necessarily how it works in our organization.
+
+伝わりますでしょうか
+if that makes sense
+
+その2つの倉庫は別の主体として扱っています、伝わりますでしょうか。
+We treat those two warehouses as separate entities, if that makes sense.
+
+〜に戻りますが
+going back to
+
+アラートについてのご質問に戻りますが。
+Going back to your question about alerts...
+
+どちらかというと〜の話
+more about
+
+つまりこれはデータモデルというより計画ロジックの話ですよね？
+So this is more about the planning logic than the data model, right?
+
+この場合は／もしそうなら
+in this case / if that's the case
+
+〜かどうか分かりません
+I'm not sure if
+
+ここで我々が同じことを話しているか自信がありません。
+I'm not sure if we're talking about the same thing here.
+
+〜ではないかと思います
+I wonder if
+
+「ロット」という言葉を違う意味で使っているのではないでしょうか。
+I wonder if we're using the word "lot" differently.
+
+ぱっと思いつく限り
+off the top of my head
+
+〜な気がします
+I have a feeling
+
+何て言うんでしたっけ
+what's it called
+
+ほぼ
+pretty much
+
+ほぼ今やっている通りです。
+That's pretty much what we do today.
+
+〜くらい
+or so
+
+30人くらいです。
+About 30 users or so.
+
+そんな感じです
+something like that
+
+
+# ===== Part2 A 自己紹介 =====
+
+サントリーホールディングスの大久保拓海です。デジタルAI変革推進部でソフトウェアアーキテクトをしています。
+Hi, I'm Takumi Okubo from Suntory Holdings. I work in the Digital and AI Transformation Division as a software architect.
+
+主にデータの構造定義、データ分析、そしてo9が我々のデータで実際にどう動くかの検証を担当しています。
+My main focus is data structure design, data analysis, and validating how o9 actually behaves with our data.
+
+本日は上司2名、部長と課長、そして同じチームのメンバーが同席しています。
+Today I'm joined by two of my managers, our division head and our section manager, and a colleague from the same team.
+
+私としては、我々の要件を正確にお伝えし、あるべき機能構成について合意したいと考えています。
+On my side, I'd like to make sure we communicate our requirements accurately, and agree on what the right functional design looks like.
+
+あわせて、サントリーの業務の特色をご理解いただき、必要に応じて今後のカスタマイズにつなげたいと思っています。
+I'd also like you to understand what's specific about Suntory's operations, so we can connect that to future customization if needed.
+
+
+# ===== Part2 B 現状 =====
+
+まず現行のプロセスを説明させてください。
+Let me walk you through our current process first.
+
+我々は倉庫間移動の計画を立てています。製造された製品を工場から倉庫を経由して得意先に届けるまでの移動です。
+We plan inter-warehouse transfers, moving finished products from the plant through warehouses until they reach our customers.
+
+現在は業務部門が手作業でやっています。需要とキャパシティを見て、自分たちで判断しています。
+Right now, the business team does this manually. They look at demand and capacity and make the call themselves.
+
+o9に期待しているのは、それを可能な限り自動化することです。
+What we want from o9 is to automate that as much as possible.
+
+規模としては、拠点が約7,000、ユーザーは計画担当が約30名、1日あたり数万件です。
+In terms of scale, we have around 7,000 locations, about 30 planners as users, and tens of thousands of records a day.
+
+難しいのは、同時に満たさなければならない制約の数です。
+The difficult part is the number of constraints we have to satisfy at the same time.
+
+非常に多品種を扱っています。飲料品は厳しい鮮度管理が必要です。倉庫ごとに特色があります。ロットの逆転はできません。保管スペースも限られていますし、トラックの台数も足りていません。
+We handle a very wide product range. Beverages require strict freshness control. Each warehouse has its own characteristics. We can't reverse the lot order. Storage space is limited, and so is the number of trucks.
+
+その上で、欠品は許されません。そこが難しいところです。
+And on top of all that, a shortage is simply not acceptable. That's the hard part.
+
+
+# ===== Part2 C 要件 =====
+
+要件を説明します。どれが必須かも合わせてお伝えします。
+Let me go through our requirements, and I'll flag which ones are must-haves.
+
+まず、各得意先の需要を確実に満たすこと。これは絶対条件です。
+First, we have to reliably meet demand at every customer. This is a deal breaker for us.
+
+次に、すべての移動が定められた能力の範囲内で行われること。
+Second, all transfers have to stay within the defined capacity.
+
+3つ目に、鮮度期限と賞味期限を守った移動であること。
+Third, transfers have to respect remaining shelf life and best-before dates.
+
+4つ目に、決められたルートに従った移動であること。
+Fourth, transfers have to follow the predefined routes.
+
+5つ目に、製造ロットの順序を守ること。古いものが倉庫に残っているのに新しいものばかり先に動く、という状態は許容できません。
+And fifth, the plan has to respect production lot order. We can't have newer lots moving first while older lots are still sitting in the warehouse.
+
+
+# ===== Part2 D 懸念・リスク =====
+
+いくつか懸念をお伝えしてもよろしいでしょうか。
+I'd like to share a few concerns, if that's okay.
+
+技術面での主な疑問は、これらの制約が本当にロジックの中で正しく判定できるのか、という点です。
+On the technical side, my main question is whether all these constraints can actually be evaluated correctly in the logic.
+
+より広く言えば、実装されるものが本当に我々の求めているものになるのか、という点です。
+And more broadly, whether what gets implemented will really match what we're asking for.
+
+運用面では、大量のマスタを運用することになります。それに我々のチームが耐えられるか自信がありません。
+On the operational side, we'll end up maintaining a large amount of master data. I'm not sure our team can sustain that.
+
+拠点が約7,000あることを踏まえると、これは現実的な懸念です。
+Given that we have around 7,000 locations, that's a real concern.
+
+もう1つは使い勝手です。計画担当がo9の画面を見て、状況を実際に理解できるかどうか。
+The other one is usability, whether a planner can look at the o9 screen and actually understand what's going on.
+
+そして、サントリー特有の事情がきちんとシステムに反映されているかどうか。
+And whether all of Suntory's specific characteristics are properly reflected in the system.
+
+
+# ===== Part2 E 例外パターン =====
+
+通常は倉庫ごとに安全在庫日数を設定します。ただ、仮に全国的に品薄になったとします。その場合は全国の在庫を見ながら調整します。
+Normally we set safety stock days for each warehouse. But let's say we're running short nationwide, in which case we adjust while looking at inventory across the whole country.
+
+通常は工場から倉庫を経由して得意先に運びます。ただ、品目によっては工場から直接出荷することもあります。
+Normally goods go from the plant through a warehouse to the customer. But for certain items, we ship directly from the plant.
+
+もし状況によってどちらのルートも取り得る品目があったらどうなりますか？システムは両方の経路を扱えますか？
+What if an item can go either way depending on the situation? Can the system handle both paths?
+
+通常ビール樽はパレットを数段重ねて冷蔵スペースに置きます。ただ、品目によっては常温で保管されるものもあります。
+Normally beer kegs are stacked several pallets high in chilled storage. But depending on the item, some are stored at ambient temperature.
+
+つまり保管条件は倉庫単位ではなく品目単位で決まります、伝わりますでしょうか。
+So storage conditions are defined at the item level, not the warehouse level, if that makes sense.
+
+通常は決まったペースの需要を満たす移動をします。ただ、繁忙期には将来の需要増を見越して前もって作り溜め・保管溜めをします。
+Normally we move stock to meet demand at a steady pace. But in peak season, we build up inventory in advance, anticipating a demand increase.
+
+仮に2ヶ月先を見越して作り溜めしたいとします。確定需要ではなく予測に対して計画できますか？
+Let's say we want to pre-build two months ahead. Can the system plan against a forecast rather than firm demand?
+
+通常はあまり経由は発生しません。ただ、遠方の場合は中継地を経由して移動します。
+Normally there aren't many transit points involved. But for distant destinations, we route through an intermediate hub.
+
+その場合、リードタイムもキャパシティチェックも中継地に対しても適用される必要があります。
+In which case, the lead time and the capacity check both have to apply at the transit point as well.
+
+
+# ===== Part2 F 日本・サントリー特有の事情 =====
+
+我々の環境について、通常お目にかかるものとは違うかもしれない点がいくつかあります。
+There are a few things about our environment that might be different from what you usually see.
+
+多くの国では倉庫スペースは比較的拡張しやすいですが、一方で日本では物理的に非常に限られています。
+In many countries warehouse space is relatively easy to expand, whereas in Japan it's physically very limited.
+
+だからこそ保管キャパシティは我々にとってハード制約であり、システムが超過してよいものではありません。
+That's why storage capacity has to be a hard constraint for us, not something the system can exceed.
+
+非常に多品種を扱っています。品目ごとにルールを定義できるからといって現実的とは限りません。管理工数が膨大になってしまいます。
+We handle a very wide product range. Just because we could define rules item by item doesn't mean it's realistic. The maintenance effort would be enormous.
+
+なので品目単位の設定ではなく、グルーピングやデフォルトルールでできるだけ対応したいです。
+So we'd like to handle as much as possible with grouping or default rules, rather than item-level settings.
+
+日本の鮮度ルールは厳しく、多くの場合、法定要件より厳しいです。残存鮮度にかなり気を使って移動を計画しています。
+Freshness rules in Japan are strict, stricter than the legal requirement in many cases. We plan transfers with a lot of care around remaining shelf life.
+
+日本の小売は、たとえ品質上まったく問題なくても、残存鮮度が一定を下回ると受け取らないと言われています。
+It's said that Japanese retailers won't accept products below a certain remaining shelf life, even if they're perfectly safe.
+
+
+# ===== Part2 G 想定質問への回答 =====
+
+計画がキャパシティを超えると、その移動は物理的に実行できないからです。コストの問題ではなく、パレットが単純に入らないんです。
+Because if the plan exceeds capacity, the transfer physically can't happen. It's not a matter of cost, the pallets simply don't fit.
+
+それを違反した計画は「少し悪い計画」ではありません。使えない計画です、伝わりますでしょうか。
+A plan that violates it isn't a slightly worse plan. It's an unusable one, if that makes sense.
+
+その日は人員もトラックも確保できないからです。たとえシステムが移動を組んでも、実行する人がいません。
+Because we can't secure staff or trucks on those days. Even if the system schedules a movement, no one is there to execute it.
+
+それらについても、ロット順序は維持したいですが、鮮度チェックはかけたくありません。なので2つのルールは可能なら独立していてほしいです。
+For those, we'd still like to keep lot order, but without the shelf-life check. So the two rules need to be independent, if possible.
+
+ぱっと思いつく限りでは、社内目標はほぼゼロです。欠品は統計値というより重大事象として扱われます。
+Off the top of my head, our internal target is close to zero. A stockout is treated as a serious issue rather than a statistic.
+
+正確な数値は業務部門に確認してご連絡します。
+I'd need to confirm the exact number with our business team and get back to you.
+
+現在、計画担当が実際にその見方で判断しているからです。画面が彼らの考え方と合わないと、結果を信頼してもらえません。
+Because that's how our planners actually make decisions today. If the view doesn't match their mental model, they won't trust the output.
+
+先ほど申し上げた鮮度の話に戻りますが、これは同じ制約から来ています。
+Going back to what I mentioned earlier about freshness, this comes from the same constraint.
+
+アラートは「必ず対処すべきもの」と「確認した方がよいもの」を区別してほしいです。すべて同じに見えると、担当者は無視するようになります。
+We'd like alerts to distinguish between must fix and worth checking. If everything looks the same, planners will start ignoring them.
+
+それは標準機能で重要度別に設定できますか？
+Is that something you can configure by severity out of the box?
+
+数千のオーダーだと思いますが、正確な数字は確認してお返しします。
+I'd say it's in the thousands, but let me confirm the exact figure and come back to you.
+
+
+# ===== Part2 H クロージング =====
+
+終わる前に、3点確認させてください。
+Before we wrap up, I'd like to confirm three things.
+
+1点目、我々が要求した機能について、機能そのものだけでなくその背景をご理解いただけているか。
+First, that you understand the background behind the functions we've requested, not just the functions themselves.
+
+2点目、日本およびサントリー特有の要件について、実装の方向性が合意できているか。
+Second, that we're aligned on the direction for the requirements that are specific to Japan and to Suntory.
+
+3点目、そちら側の持ち帰り事項、継続検討事項を一覧で共有いただけますか。
+And third, could you share a list of the open items on your side, the ones you'll be taking back for further review?
+
+それを会議後に書面でお送りいただけますか？
+Could you send that to us in writing after the meeting?
+
+
+# ===== Part3 業務用語集 =====
+
+倉庫間移動
+inter-warehouse transfer / stock transfer
+
+補充計画
+replenishment planning
+
+得意先
+customer / retail customer
+
+出荷
+shipment
+
+直送
+direct shipment from the plant
+
+中継地
+transit point / intermediate hub
+
+拠点
+location / site
+
+保管キャパシティ
+storage capacity
+
+保管スペース
+storage space
+
+常温・冷蔵
+ambient / chilled
+
+パレット
+pallet
+
+段積み
+stacking
+
+樽
+keg
+
+欠品
+stockout
+
+欠品率
+stockout rate
+
+安全在庫日数
+safety stock, days of supply
+
+在庫
+inventory / stock
+
+需要
+demand
+
+需要予測
+demand forecast
+
+確定需要
+firm demand
+
+作り溜め
+pre-build / build-up
+
+繁忙期
+peak season
+
+賞味期限
+best-before date
+
+鮮度期限・残存鮮度
+remaining shelf life
+
+ロット
+lot
+
+ロット逆転
+lot reversal / shipping out of lot order
+
+先入先出
+FIFO, first in, first out
+
+品目
+item / SKU
+
+多品種
+wide product range
+
+制約
+constraint
+
+ハード制約・ソフト制約
+hard constraint / soft constraint
+
+目的関数
+objective function
+
+マスタ
+master data
+
+マスタ運用
+master data maintenance
+
+前処理
+pre-processing
+
+標準機能
+standard functionality / out of the box
+
+設定変更
+configuration change
+
+断面・見方
+view / dimension / granularity
+
+持ち帰り事項
+open item / action item
