@@ -12,38 +12,72 @@ o9 Solutions との要件定義ミーティング向けの日英対訳(222組)�
 
 ---
 
-## 1. 準備(初回だけ)
+## Mac での手順
 
-Python 3.9 以上が入っていれば、必要なのは次の1行です。
+### 1. ファイルを1つのフォルダに置く
+
+デスクトップに `english` という名前のフォルダを作り、その中に
+**`make_audio.py` と `phrases.txt` の2つ**を入れてください。
+
+### 2. ターミナルを開く
+
+`Command` + `Space` を押して「ターミナル」と打ち、Enter。黒い(または白い)文字だけの
+ウィンドウが出ます。以降はここにコマンドを貼り付けて Enter を押していきます。
+
+### 3. 準備(初回だけ)
+
+次の4行を**まとめてコピーして貼り付け**、Enter を押してください。1〜2分かかります。
 
 ```bash
+cd ~/Desktop/english
+python3 -m venv .venv
+source .venv/bin/activate
 pip install edge-tts imageio-ffmpeg
 ```
 
-- **edge-tts** … Microsoft Edge の読み上げ音声を使うライブラリ。無料、アカウント登録不要
-- **imageio-ffmpeg** … 音声の連結に使う ffmpeg 本体。pip で入るので、PCへのインストール作業は不要
+- 1行目 … さっき作ったフォルダに移動する
+- 2〜3行目 … このフォルダ専用の Python 環境を作る(Mac に元から入っている
+  Python を汚さないため。`pip install` が権限エラーで失敗するのも防げます)
+- 4行目 … 必要なものを2つ入れる
+  - **edge-tts** … Microsoft Edge の読み上げ音声。無料、アカウント登録不要
+  - **imageio-ffmpeg** … 音声の連結に使う ffmpeg。これも pip で入るので別途インストールは不要
 
-## 2. まず1組だけ試す
+最後に `Successfully installed ...` と出れば成功です。
+
+### 4. まず1組だけ試す
 
 いきなり全部作らず、声と間の長さを確認してください。
 
 ```bash
 python make_audio.py --limit 1 -o test.mp3
+open test.mp3
 ```
 
-10秒ほどで `test.mp3` ができます。再生して、声・速度・間の長さを確認してください。
+10秒ほどで `test.mp3` ができ、`open` で再生されます。
+「日本語 → 2秒の間 → 英語 → 1.5秒の間」になっているか確認してください。
 
-## 3. 全部作る
+### 5. 全部作る
 
 ```bash
 python make_audio.py
+open .
 ```
 
-`business-english.mp3` ができます。222組・**約39分・30MB前後**です。
-初回は500回ほど読み上げを取得するので、数分かかります。
+`business-english.mp3` ができます。222組・**約39分・30MB前後**。
+初回は444回ぶんの読み上げを取得するので、**5〜10分**かかります。
+`open .` でフォルダが開くので、あとは iPhone に送るなり好きに使ってください。
 
 **途中で止まっても、同じコマンドをもう一度実行すれば続きから再開します**
 (取得済みの音声は `.cache-tts/` に貯まります)。
+
+### 次回以降
+
+ターミナルを閉じたあとにもう一度やるときは、この2行から始めてください。
+
+```bash
+cd ~/Desktop/english
+source .venv/bin/activate
+```
 
 ---
 
@@ -105,11 +139,17 @@ This one is a must-have for us.
 
 | 症状 | 対処 |
 |---|---|
+| `no such file or directory: ~/Desktop/english` | フォルダの場所か名前が違います。Finder でフォルダを右クリック →「"english" をコピー」ではなく、フォルダをターミナルにドラッグ&ドロップするとパスが入ります |
+| `command not found: python3` | ターミナルで `xcode-select --install` を実行(Apple の Python が入ります) |
+| `pip: command not found` | `source .venv/bin/activate` を実行し忘れています。手順3をやり直してください |
+| `externally-managed-environment` | 同上。`.venv` を有効にしてから `pip install` してください |
 | `403` や `No server date in headers` | `pip install -U edge-tts`(トークンの仕様変更で古い版が弾かれます) |
 | 会社のネットワークで繋がらない | `--proxy http://プロキシ:ポート` を付ける |
 | 途中で止まった | 同じコマンドを再実行(キャッシュから再開します) |
 | 音がおかしい・途切れる | `.cache-tts/` フォルダを削除して作り直す |
 | ペアリングのエラーが出るが意図通り | `--no-validate` を付ける |
+
+上のどれでも直らないときは、ターミナルに出たメッセージをそのまま貼って教えてください。
 
 ---
 
