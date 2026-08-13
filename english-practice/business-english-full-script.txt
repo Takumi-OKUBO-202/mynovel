@@ -1,0 +1,1383 @@
+# 音声と同じ順序の日英併記テキスト(聞きながら目で追う用)
+# 番号は音声の再生順です。
+
+
+# ===== phrases2 / Part2 よく使う構文(見出し語 → 例文) =====
+
+001  tend to
+     〜する傾向がある
+     Deliveries tend to slip toward the end of the month.
+     月末になると納期が遅れる傾向があります。
+
+002  be worth doing
+     〜する価値がある
+     I think it's worth trying it at one warehouse first.
+     一つの倉庫で試してみる価値はあると思います。
+
+003  have no choice but to
+     〜せざるを得ない
+     We had no choice but to go back to doing it manually.
+     手作業に戻さざるを得ませんでした。
+
+004  as
+     〜するにつれて
+     As the number of locations grows, operations get harder.
+     拠点が増えるにつれて、運用が難しくなります。
+
+005  the more, the more
+     〜すればするほど
+     The more detailed the rules, the heavier the maintenance.
+     ルールを細かくすればするほど、運用は重くなります。
+
+006  as long as
+     〜する限り
+     As long as the assumptions hold, this plan works.
+     前提が変わらない限り、この計画で問題ありません。
+
+007  without
+     〜がなければ
+     Without that information, we can't make a decision.
+     その情報がなければ判断できません。
+
+008  in exchange for
+     〜と引き換えに
+     In exchange for flexibility, we'd be giving up performance.
+     柔軟性と引き換えに、性能を落とすことになります。
+
+009  while
+     〜する一方で
+     While the cost goes down, the operational effort goes up.
+     コストは下がる一方で、運用の手間は増えます。
+
+010  despite
+     〜にもかかわらず
+     Despite explaining it several times, we're still not aligned.
+     何度も説明したにもかかわらず、認識が揃っていません。
+
+011  on the condition that
+     〜という条件で
+     We agreed on the condition that the deadline is extended.
+     期限を延ばすという条件で合意しました。
+
+012  depend on
+     〜次第です
+     That depends on the quality of the data.
+     それはデータの品質次第です。
+
+013  there's no need to
+     〜する必要はない
+     There's no need to decide everything now.
+     今すべてを決める必要はありません。
+
+014  be better off doing
+     〜したほうがいい
+     I think we're better off handling the shelf-life check and the lot order separately.
+     鮮度チェックとロット順序は別々に扱ったほうがいいと思います。
+
+015  nearly
+     危うく〜するところだった
+     We nearly went ahead with the old data.
+     危うく古いデータで進めるところでした。
+
+016  ever since
+     〜して以来
+     Ever since we changed the process, we've had fewer inquiries.
+     仕組みを変えて以来、問い合わせが減りました。
+
+017  every time
+     〜するたびに
+     Every time we add an item, it has to be configured.
+     品目を追加するたびに設定が必要になります。
+
+018  by the time
+     〜するまでに
+     By the time we go live, we'll have even more locations.
+     稼働するまでに、拠点はさらに増えているはずです。
+
+019  assuming
+     〜を前提とすると
+     Assuming we go live next year, we need to decide this month.
+     来年稼働を前提とすると、今月中に決める必要があります。
+
+020  as far as something is concerned
+     〜に関して言えば
+     As far as performance is concerned, we have no issues.
+     性能に関して言えば、問題ありません。
+
+021  setting aside
+     〜はさておき
+     Setting cost aside, how does it look functionally?
+     コストはさておき、機能面はいかがでしょうか。
+
+022  far from
+     〜どころか
+     Far from improving, it's gotten worse.
+     改善どころか、悪化しています。
+
+023  at most
+     せいぜい〜
+     We have two or three people who can handle this, at most.
+     これを扱えるのはせいぜい2、3人です。
+
+024  at least
+     少なくとも〜
+     It'll take at least six months.
+     少なくとも半年はかかります。
+
+025  may or may not
+     〜かもしれないし、しないかもしれない
+     We may or may not be able to handle that.
+     対応できるかもしれませんし、できないかもしれません。
+
+026  it's no exaggeration to say
+     〜と言っても過言ではない
+     It's no exaggeration to say this is the biggest issue.
+     これが最大の論点だと言っても過言ではありません。
+
+027  just in case
+     念のため
+     Let's write that assumption down, just in case.
+     念のため、その前提を書き残しておきましょう。
+
+028  there's room to
+     〜する余地がある
+     There's still room for improvement.
+     まだ改善の余地があります。
+
+029  the sooner, the better
+     〜に越したことはない
+     The sooner it's decided, the better.
+     早く決まるに越したことはありません。
+
+030  have no intention of
+     〜するつもりはない
+     We have no intention of changing the spec at this stage.
+     仕様を今から変えるつもりはありません。
+
+031  have just
+     〜したばかりだ
+     We've just introduced this process.
+     この仕組みは導入したばかりです。
+
+032  be expected to
+     〜する見込みだ
+     We expect to have an answer next month.
+     来月には結論が出る見込みです。
+
+033  there's a risk that
+     〜する恐れがある
+     There's a risk that operations won't keep up.
+     運用が回らなくなる恐れがあります。
+
+034  thanks to
+     〜のおかげで
+     Thanks to the materials you sent, the discussion moved quickly.
+     事前資料のおかげで議論が早く進みました。
+
+035  because of
+     〜のせいで
+     Because the definition was vague, we ended up misaligned.
+     定義があいまいだったせいで、認識がずれていました。
+
+036  it appears that
+     〜と思われる
+     It appears the cause is on the data side.
+     原因はデータ側にあると思われます。
+
+037  my understanding is that
+     〜と理解しています
+     My understanding is that it's included in the next release.
+     次のリリースに含まれると理解しています。
+
+038  in the sense that
+     〜という点で
+     It helps, in the sense that it reduces manual work.
+     運用が減るという点では有効です。
+
+039  it comes down to
+     結局は〜に尽きる
+     In the end, it comes down to priorities.
+     結局は優先順位に尽きます。
+
+040  if I had to pick
+     あえて言うなら
+     If I had to pick, I'd go with this one.
+     あえて言うなら、こちらの案です。
+
+041  be not in a position to
+     〜する立場にない
+     I'm not in a position to decide that.
+     私はそれを決める立場にありません。
+
+
+# ===== phrases2 / Part1 ① 会議を始める・場をつくる =====
+
+042  Thank you for having us today.
+     本日はお招きいただきありがとうございます。
+
+043  Looks like we're all here, so let's get started.
+     全員そろったようなので、始めましょうか。
+
+044  Before we dive in, should we do quick introductions?
+     本題に入る前に、簡単に自己紹介をしましょうか。
+
+045  Let me start by confirming what we want to get out of today.
+     今日のゴールを最初に確認させてください。
+
+046  There are three things I'd like to cover today, all around transfer planning.
+     今日は倉庫間移動の計画について3つ扱いたいことがあります。
+
+047  The agenda is the same one I sent in advance.
+     議題は事前にお送りしたものと同じです。
+
+048  Is there anything else you'd like to add to the agenda?
+     ほかに扱いたい議題はありますか？
+
+049  Feel free to stop me at any point.
+     途中でも遠慮なく止めてください。
+
+050  I'll be taking notes as we go, if that's all right.
+     メモを取らせていただきます。
+
+051  Do you mind if I use the whiteboard?
+     ホワイトボードを使ってもよろしいですか。
+
+
+# ===== phrases2 / Part1 ② 雑談・アイスブレイク(インド出張) =====
+
+052  We got in last night.
+     昨日の夜に着きました。
+
+053  It was a long flight from Japan.
+     日本からのフライトは長かったです。
+
+054  This is my first time in India.
+     インドに来るのは初めてです。
+
+055  It's great to finally meet you in person.
+     直接お会いできてうれしいです。
+
+056  It's nice to talk like this instead of through a screen.
+     画面越しではなく、こうしてお話しできるのはいいですね。
+
+057  It's cooler here than I expected.
+     思っていたより涼しいですね。
+
+058  So this is the monsoon season.
+     今は雨季なんですね。
+
+059  August in Japan is much more humid than this.
+     日本の8月はもっと蒸し暑いです。
+
+060  The traffic this morning was something else.
+     朝の交通量には驚きました。
+
+061  Independence Day was a couple of weeks ago, wasn't it?
+     独立記念日は少し前でしたね。
+
+062  The food here has been excellent.
+     こちらの料理はどれもおいしいです。
+
+063  I'm fine with spicy food.
+     辛いものは大丈夫です。
+
+064  Is there anywhere you'd recommend?
+     おすすめのお店はありますか。
+
+065  Do you follow cricket?
+     クリケットはご覧になりますか。
+
+066  We're here for three days this time.
+     今回は3日間の滞在です。
+
+067  Next time, you should come and visit us in Japan.
+     次はぜひ日本にお越しください。
+
+
+# ===== phrases2 / Part1 ③ 自己紹介・相手を知る =====
+
+068  Let me introduce myself properly.
+     改めて自己紹介させてください。
+
+069  Here's my card.
+     名刺をお渡しします。
+
+070  I work on internal systems design at Suntory.
+     サントリーで社内システムの設計を担当しています。
+
+071  I've spent a lot of time on demand planning and inventory systems.
+     需要計画と在庫まわりのシステムを長く見ています。
+
+072  I've been doing this kind of work for about ten years.
+     この仕事は10年ほどやっています。
+
+073  In my previous role, I was a developer.
+     前職では開発をしていました。
+
+074  If anything comes up, please come to me first.
+     何かあれば、まず私にご連絡ください。
+
+075  This is Sato, from my team.
+     こちらが同じチームの佐藤です。
+
+076  They handle everything on the data side.
+     データまわりを担当しているメンバーです。
+
+077  What does your role involve?
+     ご担当はどのような業務ですか。
+
+078  How big is your team?
+     チームは何名くらいですか。
+
+079  Have you been at o9 long?
+     o9には長くいらっしゃるのですか。
+
+080  Which office are you normally based out of?
+     普段はどちらのオフィスにいらっしゃいますか。
+
+081  Is this your first time working with a Japanese customer?
+     日本のお客様を担当されるのは初めてですか。
+
+
+# ===== phrases2 / Part1 ④ 意見を述べる =====
+
+082  In my view, this is a data model issue.
+     私の考えでは、これはデータモデルの問題です。
+
+083  Personally, I'd go with the second design.
+     個人的には、後者の設計のほうがよいと思います。
+
+084  From what I see on the ground, I don't think that would survive in operation.
+     現場の感覚としては、それは運用に載らないと思います。
+
+085  One thing I keep coming back to is the master data workload.
+     一つ引っかかっているのは、マスタ運用の負荷です。
+
+086  That's the part I care about most.
+     私が一番重視しているのはそこです。
+
+087  I don't want to overstate it, but I'm against it.
+     強く言うつもりはありませんが、私は反対です。
+
+088  Can I be honest with you?
+     正直に申し上げてもよろしいですか。
+
+089  This is my opinion, not a company decision.
+     これは私の意見であって、社としての決定ではありません。
+
+090  My thinking isn't fully formed, but let me share it anyway.
+     まだ考えがまとまっていませんが、共有します。
+
+091  Let me tell you where my understanding is right now.
+     現時点での私の理解をお話しします。
+
+
+# ===== phrases2 / Part1 ⑤ 賛成・保留・反対 =====
+
+092  I'm completely on board with that.
+     それには全面的に賛成です。
+
+093  I agree with the direction.
+     方向性としては賛成です。
+
+094  I agree with half of that, but the other half worries me.
+     半分は賛成ですが、半分は懸念があります。
+
+095  I agree in principle, but with one condition.
+     原則として賛成ですが、条件が一つあります。
+
+096  I see what you mean, but I see it differently.
+     おっしゃることは分かりますが、私の見方は違います。
+
+097  I hate to say it, but we can't accept that design.
+     申し上げにくいのですが、その設計は受け入れられません。
+
+098  I can't agree with that assumption.
+     その前提には同意できません。
+
+099  I don't have enough to make a call yet.
+     まだ判断できる材料がありません。
+
+100  At this stage I can't say yes or no.
+     今の段階では賛成も反対もできません。
+
+101  I'd like to leave that one open.
+     その点は保留にさせてください。
+
+102  Let me take that back to my team.
+     一度持ち帰らせてください。
+
+103  I'm not pushing back, I just want to understand.
+     反論ではなく、理解したいだけです。
+
+
+# ===== phrases2 / Part1 ⑥ 提案する・代替案を出す =====
+
+104  I have a suggestion.
+     一つ提案があります。
+
+105  How about we do it this way?
+     こうするのはどうでしょうか。
+
+106  I've thought about a different way to do this.
+     別のやり方を考えてみました。
+
+107  Can I offer a middle ground?
+     折衷案を出してもよろしいですか。
+
+108  Why don't we try it at one warehouse first?
+     まず一つの倉庫で試してみませんか。
+
+109  I'd suggest we do this in phases.
+     段階的に進めることを提案します。
+
+110  For phase one, let's limit it to the essentials.
+     第一段階では最低限の機能に絞りましょう。
+
+111  Instead, we'll handle the pre-processing on our side.
+     その代わりに、前処理はこちらで対応します。
+
+112  I don't think we need to build both approaches.
+     両方の方式を作る必要はないと思います。
+
+113  I think we should swap the order.
+     順番を入れ替えたほうがよさそうです。
+
+
+# ===== phrases2 / Part1 ⑦ 依頼する・断る =====
+
+114  Could I ask you for one thing?
+     一つお願いしてもよろしいですか。
+
+115  It would help if we could get the design document in advance.
+     設計書を事前にいただけると助かります。
+
+116  Could you get back to us by next week?
+     来週までにご回答いただけますか。
+
+117  Could you prioritize this for us?
+     これを優先していただけませんか。
+
+118  I know I'm asking a lot here.
+     無理を承知でお願いしています。
+
+119  I appreciate the offer, but we'll pass this time.
+     お気持ちはありがたいのですが、今回は見送ります。
+
+120  Unfortunately, we can't go along with that approach.
+     残念ですが、その進め方はお受けできません。
+
+121  We don't have the resources for that right now.
+     今のリソースでは対応できません。
+
+122  I can't promise you that.
+     できるとは申し上げられません。
+
+123  Would it be possible to push the deadline?
+     期限を延ばしていただくことは可能でしょうか。
+
+
+# ===== phrases2 / Part1 ⑧ 説明する・例を挙げる・言い換える =====
+
+124  Let me give you a concrete example.
+     具体例を挙げます。
+
+125  For instance, here's the kind of case I mean.
+     たとえば、こういうケースです。
+
+126  To put it another way, ...
+     別の言い方をすると。
+
+127  Put simply, it comes down to this.
+     簡単に言うと、こういうことです。
+
+128  Let me give you some background on the business side first.
+     まず業務の背景から説明させてください。
+
+129  Let me take it step by step, from the plant to the customer.
+     工場から得意先まで、順を追って説明します。
+
+130  Let me break it into three parts.
+     三つに分けて説明します。
+
+131  This is the most important part.
+     ここが一番大事な点です。
+
+132  I'll skip the details for now.
+     細かい話は割愛します。
+
+133  I think it's faster if I draw it on the whiteboard.
+     ホワイトボードに描いたほうが早いと思います。
+
+
+# ===== phrases2 / Part1 ⑨ 議論を仕切る・割って入る =====
+
+134  Could I jump in for a second?
+     少しよろしいですか。
+
+135  Sorry to interrupt.
+     話を遮ってすみません。
+
+136  Let me take stock of where we are.
+     一度、今の状況を整理させてください。
+
+137  I feel like we've drifted from the main topic.
+     少し本題から離れている気がします。
+
+138  Let's get back to the main point.
+     本題に戻しましょう。
+
+139  Let's take that under the next agenda item.
+     その論点は次の議題で扱いましょう。
+
+140  Could I get your thoughts on this?
+     ご意見をうかがってもよろしいですか。
+
+141  Is there anyone who hasn't had a chance to speak?
+     まだ発言されていない方はいますか。
+
+142  Shall we go one at a time?
+     一人ずつ話しませんか。
+
+143  We're running behind, so let's move on.
+     時間が押しているので、先に進みます。
+
+
+# ===== phrases2 / Part1 ⑩ 数字・期間・傾向を語る =====
+
+144  Shipment volume is up by roughly thirty percent.
+     出荷量はおおよそ3割ほど増えています。
+
+145  It's twenty percent higher than the same period last year.
+     去年の同じ時期と比べて2割多いです。
+
+146  Inventory has been flat.
+     在庫は横ばいで推移しています。
+
+147  The number of locations has been climbing steadily.
+     拠点の数は右肩上がりに増えています。
+
+148  Demand spikes sharply at the end of the month.
+     需要は月末に大きく跳ね上がります。
+
+149  Go-live would be April at the earliest, June at the latest.
+     早ければ4月、遅くとも6月の稼働です。
+
+150  I'd say give us about three months for validation.
+     検証には3ヶ月ほど見ていただければと思います。
+
+151  It's taking twice as long as we expected.
+     想定の倍の時間がかかっています。
+
+152  I'd treat that as within the margin of error.
+     誤差の範囲だと考えています。
+
+153  This is a rough estimate only.
+     あくまで概算です。
+
+
+# ===== phrases2 / Part1 ⑪ 懸念・リスク・課題を出す =====
+
+154  I have one concern.
+     一点、懸念があります。
+
+155  There's a risk I'd like to flag.
+     リスクとして挙げておきたいことがあります。
+
+156  I'd like us to plan for the worst case.
+     最悪の場合を想定しておきたいです。
+
+157  This isn't a go-live issue, it's what comes after.
+     これは稼働直後ではなく、その先の問題です。
+
+158  The volume of master data is what worries me most here.
+     マスタの量がここでの一番の不安要素です。
+
+159  If that assumption breaks, the whole plan breaks with it.
+     前提が崩れると、計画全体が崩れます。
+
+160  We're seeing effects we didn't anticipate.
+     想定していなかった影響が出ています。
+
+161  This one is on our side.
+     これは我々の側の課題です。
+
+162  I wanted to raise it early.
+     早めに共有しておきたいと思いました。
+
+163  I don't want to blow this out of proportion, but...
+     大ごとにするつもりはありませんが。
+
+
+# ===== phrases2 / Part1 ⑫ 決定・アクションアイテム =====
+
+164  Can we call that decided?
+     これで決まりということでよろしいですか。
+
+165  All right, we'll go in that direction.
+     では、その方向で進めます。
+
+166  Who's going to own this?
+     これは誰が担当しますか。
+
+167  We'll take that one.
+     それはこちらで引き取ります。
+
+168  When should we set the deadline?
+     期限はいつにしましょうか。
+
+169  We'll send it over by Friday.
+     金曜までにこちらからお送りします。
+
+170  Let me confirm what's still undecided.
+     まだ決まっていないことを確認させてください。
+
+171  Let me make sure we're not misaligned anywhere.
+     認識のずれがないか確認させてください。
+
+172  I'll share the minutes afterwards.
+     議事録は後ほど共有します。
+
+
+# ===== phrases2 / Part1 ⑬ 会議を締める・フォローアップ =====
+
+173  We're just about at time.
+     そろそろお時間ですね。
+
+174  Anything else before we finish?
+     最後に何かありますか。
+
+175  I thought that was a productive discussion.
+     今日は建設的な議論ができました。
+
+176  Same time again tomorrow?
+     明日も同じ時間でよろしいですか。
+
+177  Thank you for your time and your hospitality today.
+     今日はお時間とおもてなしをありがとうございました。
+
+178  I'll write everything up and send it over once I'm back in Japan.
+     帰国したら、内容を整理してお送りします。
+
+179  Let's pick this up next time.
+     続きは次回にしましょう。
+
+180  Feel free to email me if anything comes up.
+     何かあればメールでご連絡ください。
+
+181  I look forward to working with you on this.
+     引き続きよろしくお願いします。
+
+
+# ===== phrases / Part1 ① 確認・深掘り =====
+
+182  Just to be clear, is that standard functionality, or would it require customization?
+     確認させてください。それは標準機能ですか、それともカスタマイズが必要ですか？
+
+183  When you say it's possible, do you mean out of the box?
+     「できる」というのは、標準のままでという意味ですか？
+
+184  Is that available today, or is it on the roadmap?
+     それは今使えますか、それともロードマップ上のものですか？
+
+185  Which release would that be in?
+     どのリリースに含まれますか？
+
+186  Would that be included in the license, or is it an additional cost?
+     それはライセンスに含まれますか、それとも追加費用ですか？
+
+187  What would that involve on our side?
+     それは我々の側では何が必要になりますか？
+
+188  Could you walk me through how that would actually work?
+     実際にどう動くのか、順を追って説明していただけますか？
+
+189  Could you show us an example with real data?
+     実データでの例を見せていただけますか？
+
+190  Do you have other customers using it that way?
+     他のお客様でそういう使い方をしている事例はありますか？
+
+191  So if I understand correctly, is that right?
+     つまり私の理解では〜ということですね。合っていますか？
+
+192  And that's assuming we're on the enterprise plan, right?
+     それはエンタープライズプラン前提ということですね？
+
+
+# ===== phrases / Part1 ② 詰まった時のリカバリー =====
+
+193  Let me rephrase that.
+     言い直させてください。
+
+194  Sorry, let me start again.
+     すみません、もう一度言い直します。
+
+195  How do I put this...
+     どう言えばいいかな。
+
+196  The word I'm looking for is...
+     探している言葉は。
+
+197  What's it called... the one that...
+     何て言うんでしたっけ、あの。
+
+198  Off the top of my head, I think it's around 200 users.
+     ぱっと思いつく限りでは、200ユーザーくらいだと思います。
+
+199  ..., if that makes sense.
+     という感じです、伝わりますでしょうか。
+
+200  Does that answer your question?
+     ご質問の答えになっていますか？
+
+201  That's a good question. Let me think for a second.
+     いい質問ですね。少し考えさせてください。
+
+202  Can I come back to that in a moment?
+     少し後で戻ってもいいですか？
+
+
+# ===== phrases / Part1 ③ 優先度の明示 =====
+
+203  This one is a must-have for us.
+     これは我々にとって必須要件です。
+
+204  That would be nice to have, but it's not critical.
+     あれば嬉しいですが、必須ではありません。
+
+205  This is a deal breaker. We can't go live without it.
+     これは譲れません。これなしでは稼働できません。
+
+206  If I had to prioritize, I'd say A first, then B.
+     優先順位をつけるなら、まずA、次にBです。
+
+207  We can be flexible on the UI, but not on the capacity constraint.
+     UIは柔軟に考えられますが、キャパシティ制約は譲れません。
+
+208  This is non-negotiable on our side.
+     これは我々の側では交渉の余地がありません。
+
+209  I want to treat this as a hard constraint, not a soft one.
+     これはソフト制約ではなくハード制約として扱いたいです。
+
+
+# ===== phrases / Part1 ④ 保留・持ち帰り =====
+
+210  I'd need to check with our team on that.
+     その点はチームに確認が必要です。
+
+211  Can I get back to you on that by the end of this week?
+     今週中にお返事するということでよろしいですか？
+
+212  Could you send that to us in writing?
+     それを書面でいただけますか？
+
+213  Let's park that for now and come back to it.
+     一旦保留にして、後で戻りましょう。
+
+214  Can we take that offline?
+     それは別途個別に話しませんか？
+
+215  I want to give you an accurate answer, so let me confirm internally first.
+     正確にお答えしたいので、まず社内で確認させてください。
+
+
+# ===== phrases / Part1 ⑤ 会議のナビゲーション =====
+
+216  Going back to your earlier point about the capacity...
+     先ほどのキャパシティの話に戻りますが。
+
+217  Before we move on, can I just check one thing?
+     次に行く前に、1点だけ確認していいですか？
+
+218  We've got about 15 minutes left, so maybe we should move on to the alerts.
+     残り15分ほどなので、アラートの話に移りましょうか。
+
+219  Can we come back to that later? I'd like to cover the lot logic first.
+     それは後で戻ってもいいですか？先にロットのロジックを扱いたいです。
+
+220  That's related, but slightly different. Let me separate the two.
+     それは関連しますが少し別の話です。分けて説明させてください。
+
+221  Just to make sure we're on the same page, ...
+     認識を合わせるために確認ですが。
+
+
+# ===== phrases / Part1 ⑥ クロージング =====
+
+222  So, just to recap what we've agreed on today...
+     本日合意した内容をまとめますと。
+
+223  To summarize: you'll check X internally, and we'll send you Y.
+     まとめると、そちらはXを社内確認、我々はYをお送りします。
+
+224  What are the next steps from your side?
+     そちら側の次のアクションは何になりますか？
+
+225  When can we expect the documentation?
+     ドキュメントはいつ頃いただけますか？
+
+226  Who should we contact for technical questions?
+     技術的な質問はどなたに連絡すればよいですか？
+
+227  Could you share a list of open items so we're aligned?
+     認識を合わせるため、未決事項の一覧を共有いただけますか？
+
+
+# ===== phrases / Part1 ⑦ 教材からの採用表現 =====
+
+228  just out of curiosity
+     ちょっとした興味なのですが
+
+229  Just out of curiosity, how long have you been working on supply chain planning?
+     ちょっと興味なのですが、サプライチェーン計画にはどれくらい携わっているんですか？
+
+230  off-topic, but
+     話は逸れますが
+
+231  Bit off-topic, but is it still this hot over there?
+     話は逸れますが、そちらはまだこんなに暑いんですか？
+
+232  for the first time in
+     〜ぶりに
+
+233  I'm visiting the US for the first time in a year.
+     1年ぶりにアメリカに来ました。
+
+234  in general
+     全般的に
+
+235  What's the weather like there in general this time of year?
+     この時期、そちらの天気は全般的にどんな感じですか？
+
+236  in the process of
+     〜している最中
+
+237  We're in the process of redesigning our entire logistics value chain.
+     我々は物流バリューチェーン全体を再設計している最中です。
+
+238  in terms of
+     〜の観点では
+
+239  In terms of volume, we're looking at tens of thousands of records a day.
+     量の観点では、1日あたり数万件を想定しています。
+
+240  given that
+     〜であることを踏まえると
+
+241  Given that we have around 7,000 locations, master data maintenance is a real concern.
+     拠点が約7,000あることを踏まえると、マスタ運用は本当に懸念です。
+
+242  this is something that
+     これは〜なものです
+
+243  This is something that our business team currently does manually.
+     これは現在、業務部門が手作業でやっているものです。
+
+244  the reason being
+     その理由は
+
+245  We treat it as a hard constraint. The reason being our storage space is physically limited.
+     これはハード制約として扱います。理由は、保管スペースが物理的に限られているからです。
+
+246  for the sake of
+     〜のために
+
+247  For the sake of clarity, let me walk through our current process first.
+     明確にするため、まず現行プロセスを説明させてください。
+
+248  be supposed to do
+     〜のはずだ
+
+249  The stock is supposed to move in lot order, but in practice it doesn't always.
+     在庫はロット順に動くはずですが、実際は必ずしもそうではありません。
+
+250  let's say
+     仮に〜だとします
+
+251  Let's say demand spikes and stock runs low nationwide. What happens then?
+     仮に需要が急増して全国的に在庫が不足したとします。その場合どうなりますか？
+
+252  in which case
+     その場合は
+
+253  The stock might run low, in which case we adjust safety stock across all warehouses.
+     在庫が不足するかもしれません。その場合は全倉庫の安全在庫を調整します。
+
+254  what if
+     もし〜だったら
+
+255  What if the older lot is in a distant warehouse and the newer one is nearby?
+     もし古いロットが遠方の倉庫にあって、新しいロットが近くにあったらどうなりますか？
+
+256  even if
+     たとえ〜でも
+
+257  Even if the system suggests it, we can't ship a newer lot before an older one.
+     たとえシステムが提案しても、古いロットより新しいロットを先に出すことはできません。
+
+258  That's a fair point.
+     それはもっともですね。
+
+259  That's true.
+     確かにそうですね。
+
+260  I might be wrong, but
+     間違っているかもしれませんが
+
+261  I might be wrong, but I think that would conflict with our shelf-life rule.
+     間違っているかもしれませんが、それは我々の鮮度ルールと矛盾すると思います。
+
+262  I'd say
+     〜だと思います
+
+263  I'd say that covers about 80% of our cases.
+     それで我々のケースの8割くらいはカバーできると思います。
+
+264  but at the same time
+     しかし同時に
+
+265  That works for us, but at the same time, we'd lose visibility on the lot level.
+     それは我々には有効ですが、同時にロット単位の可視性を失ってしまいます。
+
+266  it's not that
+     〜というわけではない
+
+267  It's not that we don't want to automate. It's more about how much we can trust the output.
+     自動化したくないわけではありません。むしろ、結果をどこまで信頼できるかの問題です。
+
+268  it's more like
+     どちらかというと〜です
+
+269  It's not really a written rule. It's more like a long-standing practice.
+     明文化されたルールというより、長年の慣習に近いです。
+
+270  instead of / rather than
+     〜ではなく
+
+271  Instead of customizing, could we handle this with a configuration change?
+     カスタマイズではなく、設定変更で対応できませんか？
+
+272  this might be just me, but
+     私だけかもしれませんが
+
+273  This might be just me, but that timeline feels a bit tight.
+     私だけかもしれませんが、そのスケジュールは少しタイトに感じます。
+
+274  whereas
+     一方で
+
+275  In many countries warehouse space is relatively flexible, whereas in Japan it's very limited.
+     多くの国では倉庫スペースは比較的柔軟ですが、一方で日本では非常に限られています。
+
+276  It's said that
+     〜と言われています
+
+277  It's said that Japanese consumers are especially sensitive about freshness.
+     日本の消費者は特に鮮度に敏感だと言われています。
+
+278  from the perspective of
+     〜の観点から
+
+279  From the perspective of our quality team, this is a blocker.
+     品質部門の観点からは、これは障害になります。
+
+280  from that point of view
+     その観点では
+
+281  From that point of view, your suggestion makes sense.
+     その観点では、ご提案は理にかなっています。
+
+282  when it comes to
+     〜のことになると
+
+283  When it comes to shelf life, our internal standard is stricter than the legal one.
+     鮮度のことになると、我々の社内基準は法定基準より厳しいです。
+
+284  just because A doesn't mean B
+     AだからといってBとは限らない
+
+285  Just because it's legally allowed doesn't mean our customers will accept it.
+     法的に問題ないからといって、得意先が受け入れるとは限りません。
+
+286  not necessarily
+     必ずしも〜ではない
+
+287  That's not necessarily how it works in our organization.
+     我々の組織では必ずしもそうは動きません。
+
+288  if that makes sense
+     伝わりますでしょうか
+
+289  We treat those two warehouses as separate entities, if that makes sense.
+     その2つの倉庫は別の主体として扱っています、伝わりますでしょうか。
+
+290  going back to
+     〜に戻りますが
+
+291  Going back to your question about alerts...
+     アラートについてのご質問に戻りますが。
+
+292  more about
+     どちらかというと〜の話
+
+293  So this is more about the planning logic than the data model, right?
+     つまりこれはデータモデルというより計画ロジックの話ですよね？
+
+294  in this case / if that's the case
+     この場合は／もしそうなら
+
+295  I'm not sure if
+     〜かどうか分かりません
+
+296  I'm not sure if we're talking about the same thing here.
+     ここで我々が同じことを話しているか自信がありません。
+
+297  I wonder if
+     〜ではないかと思います
+
+298  I wonder if we're using the word "lot" differently.
+     「ロット」という言葉を違う意味で使っているのではないでしょうか。
+
+299  off the top of my head
+     ぱっと思いつく限り
+
+300  I have a feeling
+     〜な気がします
+
+301  what's it called
+     何て言うんでしたっけ
+
+302  pretty much
+     ほぼ
+
+303  That's pretty much what we do today.
+     ほぼ今やっている通りです。
+
+304  or so
+     〜くらい
+
+305  About 30 users or so.
+     30人くらいです。
+
+306  something like that
+     そんな感じです
+
+
+# ===== phrases / Part2 A 自己紹介 =====
+
+307  Hi, I'm Takumi Okubo from Suntory Holdings. I work in the Digital and AI Transformation Division as a software architect.
+     サントリーホールディングスの大久保拓海です。デジタルAI変革推進部でソフトウェアアーキテクトをしています。
+
+308  My main focus is data structure design, data analysis, and validating how o9 actually behaves with our data.
+     主にデータの構造定義、データ分析、そしてo9が我々のデータで実際にどう動くかの検証を担当しています。
+
+309  Today I'm joined by two of my managers, our division head and our section manager, and a colleague from the same team.
+     本日は上司2名、部長と課長、そして同じチームのメンバーが同席しています。
+
+310  On my side, I'd like to make sure we communicate our requirements accurately, and agree on what the right functional design looks like.
+     私としては、我々の要件を正確にお伝えし、あるべき機能構成について合意したいと考えています。
+
+311  I'd also like you to understand what's specific about Suntory's operations, so we can connect that to future customization if needed.
+     あわせて、サントリーの業務の特色をご理解いただき、必要に応じて今後のカスタマイズにつなげたいと思っています。
+
+
+# ===== phrases / Part2 B 現状 =====
+
+312  Let me walk you through our current process first.
+     まず現行のプロセスを説明させてください。
+
+313  We plan inter-warehouse transfers, moving finished products from the plant through warehouses until they reach our customers.
+     我々は倉庫間移動の計画を立てています。製造された製品を工場から倉庫を経由して得意先に届けるまでの移動です。
+
+314  Right now, the business team does this manually. They look at demand and capacity and make the call themselves.
+     現在は業務部門が手作業でやっています。需要とキャパシティを見て、自分たちで判断しています。
+
+315  What we want from o9 is to automate that as much as possible.
+     o9に期待しているのは、それを可能な限り自動化することです。
+
+316  In terms of scale, we have around 7,000 locations, about 30 planners as users, and tens of thousands of records a day.
+     規模としては、拠点が約7,000、ユーザーは計画担当が約30名、1日あたり数万件です。
+
+317  The difficult part is the number of constraints we have to satisfy at the same time.
+     難しいのは、同時に満たさなければならない制約の数です。
+
+318  We handle a very wide product range. Beverages require strict freshness control. Each warehouse has its own characteristics. We can't reverse the lot order. Storage space is limited, and so is the number of trucks.
+     非常に多品種を扱っています。飲料品は厳しい鮮度管理が必要です。倉庫ごとに特色があります。ロットの逆転はできません。保管スペースも限られていますし、トラックの台数も足りていません。
+
+319  And on top of all that, a shortage is simply not acceptable. That's the hard part.
+     その上で、欠品は許されません。そこが難しいところです。
+
+
+# ===== phrases / Part2 C 要件 =====
+
+320  Let me go through our requirements, and I'll flag which ones are must-haves.
+     要件を説明します。どれが必須かも合わせてお伝えします。
+
+321  First, we have to reliably meet demand at every customer. This is a deal breaker for us.
+     まず、各得意先の需要を確実に満たすこと。これは絶対条件です。
+
+322  Second, all transfers have to stay within the defined capacity.
+     次に、すべての移動が定められた能力の範囲内で行われること。
+
+323  Third, transfers have to respect remaining shelf life and best-before dates.
+     3つ目に、鮮度期限と賞味期限を守った移動であること。
+
+324  Fourth, transfers have to follow the predefined routes.
+     4つ目に、決められたルートに従った移動であること。
+
+325  And fifth, the plan has to respect production lot order. We can't have newer lots moving first while older lots are still sitting in the warehouse.
+     5つ目に、製造ロットの順序を守ること。古いものが倉庫に残っているのに新しいものばかり先に動く、という状態は許容できません。
+
+
+# ===== phrases / Part2 D 懸念・リスク =====
+
+326  I'd like to share a few concerns, if that's okay.
+     いくつか懸念をお伝えしてもよろしいでしょうか。
+
+327  On the technical side, my main question is whether all these constraints can actually be evaluated correctly in the logic.
+     技術面での主な疑問は、これらの制約が本当にロジックの中で正しく判定できるのか、という点です。
+
+328  And more broadly, whether what gets implemented will really match what we're asking for.
+     より広く言えば、実装されるものが本当に我々の求めているものになるのか、という点です。
+
+329  On the operational side, we'll end up maintaining a large amount of master data. I'm not sure our team can sustain that.
+     運用面では、大量のマスタを運用することになります。それに我々のチームが耐えられるか自信がありません。
+
+330  Given that we have around 7,000 locations, that's a real concern.
+     拠点が約7,000あることを踏まえると、これは現実的な懸念です。
+
+331  The other one is usability, whether a planner can look at the o9 screen and actually understand what's going on.
+     もう1つは使い勝手です。計画担当がo9の画面を見て、状況を実際に理解できるかどうか。
+
+332  And whether all of Suntory's specific characteristics are properly reflected in the system.
+     そして、サントリー特有の事情がきちんとシステムに反映されているかどうか。
+
+
+# ===== phrases / Part2 E 例外パターン =====
+
+333  Normally we set safety stock days for each warehouse. But let's say we're running short nationwide, in which case we adjust while looking at inventory across the whole country.
+     通常は倉庫ごとに安全在庫日数を設定します。ただ、仮に全国的に品薄になったとします。その場合は全国の在庫を見ながら調整します。
+
+334  Normally goods go from the plant through a warehouse to the customer. But for certain items, we ship directly from the plant.
+     通常は工場から倉庫を経由して得意先に運びます。ただ、品目によっては工場から直接出荷することもあります。
+
+335  What if an item can go either way depending on the situation? Can the system handle both paths?
+     もし状況によってどちらのルートも取り得る品目があったらどうなりますか？システムは両方の経路を扱えますか？
+
+336  Normally beer kegs are stacked several pallets high in chilled storage. But depending on the item, some are stored at ambient temperature.
+     通常ビール樽はパレットを数段重ねて冷蔵スペースに置きます。ただ、品目によっては常温で保管されるものもあります。
+
+337  So storage conditions are defined at the item level, not the warehouse level, if that makes sense.
+     つまり保管条件は倉庫単位ではなく品目単位で決まります、伝わりますでしょうか。
+
+338  Normally we move stock to meet demand at a steady pace. But in peak season, we build up inventory in advance, anticipating a demand increase.
+     通常は決まったペースの需要を満たす移動をします。ただ、繁忙期には将来の需要増を見越して前もって作り溜め・保管溜めをします。
+
+339  Let's say we want to pre-build two months ahead. Can the system plan against a forecast rather than firm demand?
+     仮に2ヶ月先を見越して作り溜めしたいとします。確定需要ではなく予測に対して計画できますか？
+
+340  Normally there aren't many transit points involved. But for distant destinations, we route through an intermediate hub.
+     通常はあまり経由は発生しません。ただ、遠方の場合は中継地を経由して移動します。
+
+341  In which case, the lead time and the capacity check both have to apply at the transit point as well.
+     その場合、リードタイムもキャパシティチェックも中継地に対しても適用される必要があります。
+
+
+# ===== phrases / Part2 F 日本・サントリー特有の事情 =====
+
+342  There are a few things about our environment that might be different from what you usually see.
+     我々の環境について、通常お目にかかるものとは違うかもしれない点がいくつかあります。
+
+343  In many countries warehouse space is relatively easy to expand, whereas in Japan it's physically very limited.
+     多くの国では倉庫スペースは比較的拡張しやすいですが、一方で日本では物理的に非常に限られています。
+
+344  That's why storage capacity has to be a hard constraint for us, not something the system can exceed.
+     だからこそ保管キャパシティは我々にとってハード制約であり、システムが超過してよいものではありません。
+
+345  We handle a very wide product range. Just because we could define rules item by item doesn't mean it's realistic. The maintenance effort would be enormous.
+     非常に多品種を扱っています。品目ごとにルールを定義できるからといって現実的とは限りません。管理工数が膨大になってしまいます。
+
+346  So we'd like to handle as much as possible with grouping or default rules, rather than item-level settings.
+     なので品目単位の設定ではなく、グルーピングやデフォルトルールでできるだけ対応したいです。
+
+347  Freshness rules in Japan are strict, stricter than the legal requirement in many cases. We plan transfers with a lot of care around remaining shelf life.
+     日本の鮮度ルールは厳しく、多くの場合、法定要件より厳しいです。残存鮮度にかなり気を使って移動を計画しています。
+
+348  It's said that Japanese retailers won't accept products below a certain remaining shelf life, even if they're perfectly safe.
+     日本の小売は、たとえ品質上まったく問題なくても、残存鮮度が一定を下回ると受け取らないと言われています。
+
+
+# ===== phrases / Part2 G 想定質問への回答 =====
+
+349  Because if the plan exceeds capacity, the transfer physically can't happen. It's not a matter of cost, the pallets simply don't fit.
+     計画がキャパシティを超えると、その移動は物理的に実行できないからです。コストの問題ではなく、パレットが単純に入らないんです。
+
+350  A plan that violates it isn't a slightly worse plan. It's an unusable one, if that makes sense.
+     それを違反した計画は「少し悪い計画」ではありません。使えない計画です、伝わりますでしょうか。
+
+351  Because we can't secure staff or trucks on those days. Even if the system schedules a movement, no one is there to execute it.
+     その日は人員もトラックも確保できないからです。たとえシステムが移動を組んでも、実行する人がいません。
+
+352  For those, we'd still like to keep lot order, but without the shelf-life check. So the two rules need to be independent, if possible.
+     それらについても、ロット順序は維持したいですが、鮮度チェックはかけたくありません。なので2つのルールは可能なら独立していてほしいです。
+
+353  Off the top of my head, our internal target is close to zero. A stockout is treated as a serious issue rather than a statistic.
+     ぱっと思いつく限りでは、社内目標はほぼゼロです。欠品は統計値というより重大事象として扱われます。
+
+354  I'd need to confirm the exact number with our business team and get back to you.
+     正確な数値は業務部門に確認してご連絡します。
+
+355  Because that's how our planners actually make decisions today. If the view doesn't match their mental model, they won't trust the output.
+     現在、計画担当が実際にその見方で判断しているからです。画面が彼らの考え方と合わないと、結果を信頼してもらえません。
+
+356  Going back to what I mentioned earlier about freshness, this comes from the same constraint.
+     先ほど申し上げた鮮度の話に戻りますが、これは同じ制約から来ています。
+
+357  We'd like alerts to distinguish between must fix and worth checking. If everything looks the same, planners will start ignoring them.
+     アラートは「必ず対処すべきもの」と「確認した方がよいもの」を区別してほしいです。すべて同じに見えると、担当者は無視するようになります。
+
+358  Is that something you can configure by severity out of the box?
+     それは標準機能で重要度別に設定できますか？
+
+359  I'd say it's in the thousands, but let me confirm the exact figure and come back to you.
+     数千のオーダーだと思いますが、正確な数字は確認してお返しします。
+
+
+# ===== phrases / Part2 H クロージング =====
+
+360  Before we wrap up, I'd like to confirm three things.
+     終わる前に、3点確認させてください。
+
+361  First, that you understand the background behind the functions we've requested, not just the functions themselves.
+     1点目、我々が要求した機能について、機能そのものだけでなくその背景をご理解いただけているか。
+
+362  Second, that we're aligned on the direction for the requirements that are specific to Japan and to Suntory.
+     2点目、日本およびサントリー特有の要件について、実装の方向性が合意できているか。
+
+363  And third, could you share a list of the open items on your side, the ones you'll be taking back for further review?
+     3点目、そちら側の持ち帰り事項、継続検討事項を一覧で共有いただけますか。
+
+364  Could you send that to us in writing after the meeting?
+     それを会議後に書面でお送りいただけますか？
+
+
+# ===== phrases / Part3 業務用語集 =====
+
+365  inter-warehouse transfer / stock transfer
+     倉庫間移動
+
+366  replenishment planning
+     補充計画
+
+367  customer / retail customer
+     得意先
+
+368  shipment
+     出荷
+
+369  direct shipment from the plant
+     直送
+
+370  transit point / intermediate hub
+     中継地
+
+371  location / site
+     拠点
+
+372  storage capacity
+     保管キャパシティ
+
+373  storage space
+     保管スペース
+
+374  ambient / chilled
+     常温・冷蔵
+
+375  pallet
+     パレット
+
+376  stacking
+     段積み
+
+377  keg
+     樽
+
+378  stockout
+     欠品
+
+379  stockout rate
+     欠品率
+
+380  safety stock, days of supply
+     安全在庫日数
+
+381  inventory / stock
+     在庫
+
+382  demand
+     需要
+
+383  demand forecast
+     需要予測
+
+384  firm demand
+     確定需要
+
+385  pre-build / build-up
+     作り溜め
+
+386  peak season
+     繁忙期
+
+387  best-before date
+     賞味期限
+
+388  remaining shelf life
+     鮮度期限・残存鮮度
+
+389  lot
+     ロット
+
+390  lot reversal / shipping out of lot order
+     ロット逆転
+
+391  FIFO, first in, first out
+     先入先出
+
+392  item / SKU
+     品目
+
+393  wide product range
+     多品種
+
+394  constraint
+     制約
+
+395  hard constraint / soft constraint
+     ハード制約・ソフト制約
+
+396  objective function
+     目的関数
+
+397  master data
+     マスタ
+
+398  master data maintenance
+     マスタ運用
+
+399  pre-processing
+     前処理
+
+400  standard functionality / out of the box
+     標準機能
+
+401  configuration change
+     設定変更
+
+402  view / dimension / granularity
+     断面・見方
+
+403  open item / action item
+     持ち帰り事項

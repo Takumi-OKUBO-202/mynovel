@@ -60,11 +60,13 @@ def is_pattern_section(section: str) -> bool:
     return PATTERN_MARKER in section
 
 
-def parse(path: Path, validate: bool = True, english_only: bool = False) -> list[Pair]:
+def parse(path: Path, validate: bool = True, english_only: bool = False,
+          label: str = "") -> list[Pair]:
     """対訳ファイルを読み、(日本語, 英語, セクション名) のリストを返す。
 
     「#」で始まる行と空行は無視し、残りを上から2行ずつ組にする。
     「# ===== 見出し =====」の形のコメントはセクション名として覚えておく。
+    label を渡すと、セクション名の頭に付ける(複数ファイルを続けて読むとき用)。
     """
     entries: list[tuple[int, str, str]] = []
     section = ""
@@ -74,9 +76,11 @@ def parse(path: Path, validate: bool = True, english_only: bool = False) -> list
             found = SECTION.match(text)
             if found:
                 section = found.group(1)
+                if label:
+                    section = f"{label} / {section}"
             continue
         if text:
-            entries.append((lineno, text, section))
+            entries.append((lineno, text, section or label))
 
     problems: list[str] = []
     if len(entries) % 2 != 0:
@@ -381,7 +385,8 @@ def main() -> None:
         formatter_class=argparse.ArgumentDefaultsHelpFormatter,
     )
     ap.add_argument("-o", "--out", default="business-english.mp3", help="出力ファイル")
-    ap.add_argument("-i", "--input", default=str(HERE / "phrases.txt"), help="対訳ファイル")
+    ap.add_argument("-i", "--input", nargs="+", default=[str(HERE / "phrases.txt")],
+                    help="対訳ファイル。複数指定すると、その順につなげて1本にする")
     ap.add_argument("--english-only", action="store_true",
                     help="日本語を読み上げず、重要表現→0.75倍→通常速度で英語だけ読む")
     ap.add_argument("--script-out", default=None,
@@ -416,12 +421,20 @@ def main() -> None:
             out(f"{name} は '+0%' や '-25%' の形式で指定してください(受け取った値: {value})")
             sys.exit(1)
 
-    src = Path(args.input)
-    if not src.exists():
-        out(f"対訳ファイルが見つかりません: {src}")
-        sys.exit(1)
+    sources = [Path(p) for p in args.input]
+    for src in sources:
+        if not src.exists():
+            out(f"対訳ファイルが見つかりません: {src}")
+            sys.exit(1)
 
-    pairs = parse(src, validate=not args.no_validate, english_only=args.english_only)
+    pairs: list[Pair] = []
+    for src in sources:
+        pairs += parse(
+            src,
+            validate=not args.no_validate,
+            english_only=args.english_only,
+            label=src.stem if len(sources) > 1 else "",
+        )
     blocks = group_blocks(pairs, args.english_only)
     total_blocks = len(blocks)
     if args.limit:
@@ -429,7 +442,7 @@ def main() -> None:
 
     segments = plan_segments(blocks, args)
 
-    out(f"対訳ファイル : {src}")
+    out(f"対訳ファイル : {' → '.join(s.name for s in sources)}")
     out(f"項目数       : {len(blocks)} 項目(ファイル全体では {total_blocks} 項目)")
     if args.english_only:
         out("構成         : 英語のみ。重要表現 → "

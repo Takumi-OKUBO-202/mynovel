@@ -101,6 +101,22 @@ python make_audio.py -i phrases2.txt -o business-english-2.mp3 --english-only \
 
 日本語も聞きたい場合は `--english-only` を外せば、第一弾と同じ日→英の形式になります。
 
+### 7. 第一弾と第二弾をつなげた長い版を作る
+
+`-i` に対訳ファイルを**並べた順**につながります。第二弾のあとに第一弾を、
+どちらも英語のみの構成で1本にする場合はこうです。
+
+```bash
+python make_audio.py -i phrases2.txt phrases.txt -o business-english-full.mp3 \
+  --english-only --script-out business-english-full-script.txt
+```
+
+403項目・**約1時間1分**。番号は通しで振られ、日英併記テキストの見出しには
+どちらのファイル由来かが `phrases2 / ...`、`phrases / ...` と入ります。
+
+第一弾の Part3(業務用語集)も英語だけで読み上げられるので、
+用語の聞き取り練習も兼ねられます。
+
 ### 次回以降
 
 ターミナルを閉じたあとにもう一度やるときは、この2行から始めてください。
