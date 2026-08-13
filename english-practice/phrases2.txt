@@ -1,0 +1,717 @@
+# 日英対訳フレーズ集 第二弾 — ビジネス会議の汎用表現と構文
+#
+# 書式は phrases.txt と同じ。「#」で始まる行はコメント(読み上げません)。
+# それ以外の行を、上から「日本語」「英語」の2行1組として読み上げます。
+#
+# 第一弾(phrases.txt)が o9 との要件定義に特化した自分用スクリプトなのに対し、
+# こちらはどの会議でも使い回せる汎用表現に振ってあります。重複はありません。
+
+# ===== Part1 ① 会議を始める・場をつくる =====
+
+皆さん、聞こえていますか？
+Can everyone hear me okay?
+
+全員そろったようなので、始めましょうか。
+Looks like we're all here, so let's get started.
+
+本日はお時間をいただきありがとうございます。
+Thank you for making the time today.
+
+本題に入る前に、簡単に自己紹介をしましょうか。
+Before we dive in, should we do quick introductions?
+
+今日のゴールを最初に確認させてください。
+Let me start by confirming what we want to get out of today.
+
+今日は3つ扱いたいことがあります。
+There are three things I'd like to cover today.
+
+議題は事前にお送りしたものと同じです。
+The agenda is the same one I sent in advance.
+
+ほかに扱いたい議題はありますか？
+Is there anything else you'd like to add to the agenda?
+
+途中でも遠慮なく止めてください。
+Feel free to stop me at any point.
+
+録画してもよろしいでしょうか？
+Would it be okay if I record this?
+
+
+# ===== Part1 ② オンライン会議のトラブル =====
+
+マイクがミュートになっているようです。
+I think you're on mute.
+
+音声が途切れています。
+You're breaking up.
+
+少し接続が不安定なようです。
+The connection seems a bit unstable.
+
+いったん退出して入り直します。
+Let me drop off and rejoin.
+
+回線が重いので、カメラをオフにさせてください。
+Let me turn my camera off, the connection is struggling.
+
+画面は見えていますか？
+Can you see my screen?
+
+画面を共有していただけますか？
+Could you share your screen?
+
+少し下にスクロールしていただけますか？
+Could you scroll down a little?
+
+音声が聞こえないので、チャットに書きます。
+I can't hear you, so I'll type it in the chat.
+
+すみません、かぶってしまいました。どうぞ。
+Sorry, we talked over each other. Go ahead.
+
+
+# ===== Part1 ③ 聞き取れないとき・聞き返す =====
+
+すみません、最後の部分が聞き取れませんでした。
+Sorry, I didn't catch the last part.
+
+もう少しゆっくり話していただけますか？
+Could you speak a little more slowly?
+
+もう一度言っていただけますか？
+Could you say that again?
+
+綴りを教えていただけますか？
+Could you spell that for me?
+
+チャットに書いていただけると助かります。
+It would help if you could put it in the chat.
+
+その単語はどういう意味でしょうか？
+What does that word mean, exactly?
+
+今おっしゃったのは、こういうことでしょうか。
+Let me check I've got that right.
+
+私の理解が追いついているか確認させてください。
+Let me make sure I'm following you.
+
+一度整理させてください。
+Give me a second to sort that out.
+
+英語が母語ではないので、分かりにくければ言ってください。
+English isn't my first language, so please tell me if I'm not being clear.
+
+
+# ===== Part1 ④ 意見を述べる =====
+
+私の考えでは、これは設計の問題です。
+In my view, this is a design issue.
+
+個人的には、後者のほうがよいと思います。
+Personally, I'd go with the second option.
+
+現場の感覚としては、それは難しいと思います。
+From what I see on the ground, I think that would be difficult.
+
+一つ引っかかっているのは、運用の負荷です。
+One thing I keep coming back to is the operational load.
+
+私が一番重視しているのはそこです。
+That's the part I care about most.
+
+強く言うつもりはありませんが、私は反対です。
+I don't want to overstate it, but I'm against it.
+
+正直に申し上げてもよろしいですか。
+Can I be honest with you?
+
+これは私の意見であって、決定ではありません。
+This is my opinion, not a decision.
+
+まだ考えがまとまっていませんが、共有します。
+My thinking isn't fully formed, but let me share it anyway.
+
+現時点での私の理解をお話しします。
+Let me tell you where my understanding is right now.
+
+
+# ===== Part1 ⑤ 賛成・保留・反対 =====
+
+それには全面的に賛成です。
+I'm completely on board with that.
+
+方向性としては賛成です。
+I agree with the direction.
+
+半分は賛成ですが、半分は懸念があります。
+I agree with half of that, but the other half worries me.
+
+原則として賛成ですが、条件が一つあります。
+I agree in principle, but with one condition.
+
+おっしゃることは分かりますが、私の見方は違います。
+I see what you mean, but I see it differently.
+
+申し上げにくいのですが、それは受け入れられません。
+I hate to say it, but we can't accept that.
+
+その前提には同意できません。
+I can't agree with that assumption.
+
+まだ判断できる材料がありません。
+I don't have enough to make a call yet.
+
+今の段階では賛成も反対もできません。
+At this stage I can't say yes or no.
+
+その点は保留にさせてください。
+I'd like to leave that one open.
+
+一度持ち帰らせてください。
+Let me take that back to my team.
+
+反論ではなく、理解したいだけです。
+I'm not pushing back, I just want to understand.
+
+
+# ===== Part1 ⑥ 提案する・代替案を出す =====
+
+一つ提案があります。
+I have a suggestion.
+
+こうするのはどうでしょうか。
+How about we do it this way?
+
+別のやり方を考えてみました。
+I've thought about a different way to do this.
+
+折衷案を出してもよろしいですか。
+Can I offer a middle ground?
+
+まず小さく試してみませんか。
+Why don't we start small and test it?
+
+段階的に進めることを提案します。
+I'd suggest we do this in phases.
+
+第一段階では最低限の機能に絞りましょう。
+For phase one, let's limit it to the essentials.
+
+その代わりに、こちらで対応します。
+Instead, we'll handle it on our side.
+
+両方やる必要はないと思います。
+I don't think we need to do both.
+
+順番を入れ替えたほうがよさそうです。
+I think we should swap the order.
+
+
+# ===== Part1 ⑦ 依頼する・断る =====
+
+一つお願いしてもよろしいですか。
+Could I ask you for one thing?
+
+資料を事前にいただけると助かります。
+It would help if we could get the materials in advance.
+
+来週までにご回答いただけますか。
+Could you get back to us by next week?
+
+これを優先していただけませんか。
+Could you prioritize this for us?
+
+無理を承知でお願いしています。
+I know I'm asking a lot here.
+
+お気持ちはありがたいのですが、今回は見送ります。
+I appreciate the offer, but we'll pass this time.
+
+残念ですが、今回はお受けできません。
+Unfortunately, we can't take that on this time.
+
+今のリソースでは対応できません。
+We don't have the resources for that right now.
+
+できるとは申し上げられません。
+I can't promise you that.
+
+期限を延ばしていただくことは可能でしょうか。
+Would it be possible to push the deadline?
+
+
+# ===== Part1 ⑧ 説明する・例を挙げる・言い換える =====
+
+具体例を挙げます。
+Let me give you a concrete example.
+
+たとえば、こういうケースです。
+For instance, here's the kind of case I mean.
+
+別の言い方をすると。
+To put it another way, ...
+
+簡単に言うと、こういうことです。
+Put simply, it comes down to this.
+
+背景から説明させてください。
+Let me give you some background first.
+
+順を追って説明します。
+Let me take it step by step.
+
+三つに分けて説明します。
+Let me break it into three parts.
+
+ここが一番大事な点です。
+This is the most important part.
+
+細かい話は割愛します。
+I'll skip the details for now.
+
+図でお見せしたほうが早いと思います。
+I think it's faster if I show you a diagram.
+
+
+# ===== Part1 ⑨ 議論を仕切る・割って入る =====
+
+少しよろしいですか。
+Could I jump in for a second?
+
+話を遮ってすみません。
+Sorry to interrupt.
+
+一度、今の状況を整理させてください。
+Let me take stock of where we are.
+
+少し本題から離れている気がします。
+I feel like we've drifted from the main topic.
+
+本題に戻しましょう。
+Let's get back to the main point.
+
+その論点は次の議題で扱いましょう。
+Let's take that under the next agenda item.
+
+ご意見をうかがってもよろしいですか。
+Could I get your thoughts on this?
+
+まだ発言されていない方はいますか。
+Is there anyone who hasn't had a chance to speak?
+
+一人ずつ話しませんか。
+Shall we go one at a time?
+
+時間が押しているので、先に進みます。
+We're running behind, so let's move on.
+
+
+# ===== Part1 ⑩ 数字・期間・傾向を語る =====
+
+おおよそ3割ほどです。
+It's roughly thirty percent.
+
+去年と比べて2割増えています。
+It's up twenty percent compared to last year.
+
+横ばいで推移しています。
+It's been flat.
+
+右肩上がりに増えています。
+It's been climbing steadily.
+
+月末に大きく跳ね上がります。
+It spikes sharply at the end of the month.
+
+早ければ4月、遅くとも6月です。
+April at the earliest, June at the latest.
+
+3ヶ月ほど見ていただければと思います。
+I'd say give it about three months.
+
+想定の倍かかっています。
+It's taking twice as long as we expected.
+
+誤差の範囲だと考えています。
+I'd treat that as within the margin of error.
+
+あくまで概算です。
+This is a rough estimate only.
+
+
+# ===== Part1 ⑪ 懸念・リスク・課題を出す =====
+
+一点、懸念があります。
+I have one concern.
+
+リスクとして挙げておきたいことがあります。
+There's a risk I'd like to flag.
+
+最悪の場合を想定しておきたいです。
+I'd like us to plan for the worst case.
+
+これは今すぐではなく、将来の問題です。
+This isn't an issue today, but it will be later.
+
+ここが一番の不安要素です。
+This is the part that worries me most.
+
+前提が崩れると、全体が崩れます。
+If that assumption breaks, everything else breaks with it.
+
+想定していなかった影響が出ています。
+We're seeing effects we didn't anticipate.
+
+これは我々の側の課題です。
+This one is on our side.
+
+早めに共有しておきたいと思いました。
+I wanted to raise it early.
+
+大ごとにするつもりはありませんが。
+I don't want to blow this out of proportion, but...
+
+
+# ===== Part1 ⑫ 交渉・条件を詰める =====
+
+そこは歩み寄れると思います。
+I think we can meet you halfway on that.
+
+その条件であればお受けできます。
+We can accept that if those are the terms.
+
+逆に、こちらからもお願いしたいことがあります。
+In return, there's something we'd like to ask of you.
+
+何を差し出せば、それが可能になりますか。
+What would we need to give up to make that possible?
+
+どこまでなら対応していただけますか。
+How far can you go on that?
+
+予算の範囲を超えています。
+That's beyond our budget.
+
+その前提だと話が変わってきます。
+That changes things.
+
+まとめて契約する場合はどうなりますか。
+What would it look like if we bundled it together?
+
+今日決めなくても大丈夫です。
+We don't have to decide this today.
+
+お互いにとって良い形にしたいです。
+I want to find something that works for both of us.
+
+
+# ===== Part1 ⑬ 決定・アクションアイテム =====
+
+これで決まりということでよろしいですか。
+Can we call that decided?
+
+では、その方向で進めます。
+All right, we'll go in that direction.
+
+これは誰が担当しますか。
+Who's going to own this?
+
+それはこちらで引き取ります。
+We'll take that one.
+
+期限はいつにしましょうか。
+When should we set the deadline?
+
+金曜までにこちらからお送りします。
+We'll send it over by Friday.
+
+まだ決まっていないことを確認させてください。
+Let me confirm what's still undecided.
+
+認識のずれがないか確認させてください。
+Let me make sure we're not misaligned anywhere.
+
+議事録は後ほど共有します。
+I'll share the minutes afterwards.
+
+
+# ===== Part1 ⑭ 会議を締める・フォローアップ =====
+
+そろそろお時間ですね。
+We're just about at time.
+
+最後に何かありますか。
+Anything else before we finish?
+
+今日は建設的な議論ができました。
+I thought that was a productive discussion.
+
+お時間をいただきありがとうございました。
+Thank you for your time today.
+
+続きは次回にしましょう。
+Let's pick this up next time.
+
+次回の日程を決めましょう。
+Let's set a date for the next one.
+
+何かあればメールでご連絡ください。
+Feel free to email me if anything comes up.
+
+議論の内容を整理してお送りします。
+I'll write up what we discussed and send it over.
+
+引き続きよろしくお願いします。
+I look forward to working with you on this.
+
+
+# ===== Part2 よく使う構文(見出し語 → 例文) =====
+
+〜する傾向がある
+tend to
+
+月末になると納期が遅れる傾向があります。
+Deliveries tend to slip toward the end of the month.
+
+〜する価値がある
+be worth doing
+
+一度試してみる価値はあると思います。
+I think it's worth trying once.
+
+〜せざるを得ない
+have no choice but to
+
+手作業に戻さざるを得ませんでした。
+We had no choice but to go back to doing it manually.
+
+〜するにつれて
+as
+
+拠点が増えるにつれて、運用が難しくなります。
+As the number of locations grows, operations get harder.
+
+〜すればするほど
+the more, the more
+
+ルールを細かくすればするほど、運用は重くなります。
+The more detailed the rules, the heavier the maintenance.
+
+〜する限り
+as long as
+
+前提が変わらない限り、この計画で問題ありません。
+As long as the assumptions hold, this plan works.
+
+〜がなければ
+without
+
+その情報がなければ判断できません。
+Without that information, we can't make a decision.
+
+〜と引き換えに
+in exchange for
+
+柔軟性と引き換えに、性能を落とすことになります。
+In exchange for flexibility, we'd be giving up performance.
+
+〜する一方で
+while
+
+コストは下がる一方で、運用の手間は増えます。
+While the cost goes down, the operational effort goes up.
+
+〜にもかかわらず
+despite
+
+何度も説明したにもかかわらず、認識が揃っていません。
+Despite explaining it several times, we're still not aligned.
+
+〜という条件で
+on the condition that
+
+期限を延ばすという条件で合意しました。
+We agreed on the condition that the deadline is extended.
+
+〜次第です
+depend on
+
+それはデータの品質次第です。
+That depends on the quality of the data.
+
+〜する必要はない
+there's no need to
+
+今すべてを決める必要はありません。
+There's no need to decide everything now.
+
+〜したほうがいい
+be better off doing
+
+別々に扱ったほうがいいと思います。
+I think we're better off handling them separately.
+
+危うく〜するところだった
+nearly
+
+危うく古いデータで進めるところでした。
+We nearly went ahead with the old data.
+
+〜して以来
+ever since
+
+仕組みを変えて以来、問い合わせが減りました。
+Ever since we changed the process, we've had fewer inquiries.
+
+〜するたびに
+every time
+
+品目を追加するたびに設定が必要になります。
+Every time we add an item, it has to be configured.
+
+〜するまでに
+by the time
+
+稼働するまでに、拠点はさらに増えているはずです。
+By the time we go live, we'll have even more locations.
+
+〜を前提とすると
+assuming
+
+来年稼働を前提とすると、今月中に決める必要があります。
+Assuming we go live next year, we need to decide this month.
+
+〜に関して言えば
+as far as something is concerned
+
+性能に関して言えば、問題ありません。
+As far as performance is concerned, we have no issues.
+
+〜はさておき
+setting aside
+
+コストはさておき、機能面はいかがでしょうか。
+Setting cost aside, how does it look functionally?
+
+〜どころか
+far from
+
+改善どころか、悪化しています。
+Far from improving, it's gotten worse.
+
+せいぜい〜
+at most
+
+せいぜい2、3人です。
+Two or three people at most.
+
+少なくとも〜
+at least
+
+少なくとも半年はかかります。
+It'll take at least six months.
+
+〜かもしれないし、しないかもしれない
+may or may not
+
+対応できるかもしれませんし、できないかもしれません。
+We may or may not be able to handle that.
+
+〜と言っても過言ではない
+it's no exaggeration to say
+
+これが最大の論点だと言っても過言ではありません。
+It's no exaggeration to say this is the biggest issue.
+
+念のため
+just in case
+
+念のため、その前提を書き残しておきましょう。
+Let's write that assumption down, just in case.
+
+〜する余地がある
+there's room to
+
+まだ改善の余地があります。
+There's still room for improvement.
+
+〜に越したことはない
+the sooner, the better
+
+早く決まるに越したことはありません。
+The sooner it's decided, the better.
+
+〜するつもりはない
+have no intention of
+
+仕様を今から変えるつもりはありません。
+We have no intention of changing the spec at this stage.
+
+〜したばかりだ
+have just
+
+この仕組みは導入したばかりです。
+We've just introduced this process.
+
+〜する見込みだ
+be expected to
+
+来月には結論が出る見込みです。
+We expect to have an answer next month.
+
+〜する恐れがある
+there's a risk that
+
+運用が回らなくなる恐れがあります。
+There's a risk that operations won't keep up.
+
+〜のおかげで
+thanks to
+
+事前資料のおかげで議論が早く進みました。
+Thanks to the materials you sent, the discussion moved quickly.
+
+〜のせいで
+because of
+
+定義があいまいだったせいで、認識がずれていました。
+Because the definition was vague, we ended up misaligned.
+
+〜と思われる
+it appears that
+
+原因はデータ側にあると思われます。
+It appears the cause is on the data side.
+
+〜と理解しています
+my understanding is that
+
+次のリリースに含まれると理解しています。
+My understanding is that it's included in the next release.
+
+〜という点で
+in the sense that
+
+運用が減るという点では有効です。
+It helps, in the sense that it reduces manual work.
+
+結局は〜に尽きる
+it comes down to
+
+結局は優先順位に尽きます。
+In the end, it comes down to priorities.
+
+あえて言うなら
+if I had to pick
+
+あえて言うなら、こちらの案です。
+If I had to pick, I'd go with this one.
+
+〜する立場にない
+be not in a position to
+
+私はそれを決める立場にありません。
+I'm not in a position to decide that.
