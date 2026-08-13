@@ -39,70 +39,100 @@ Feel free to stop me at any point.
 Would it be okay if I record this?
 
 
-# ===== Part1 ② オンライン会議のトラブル =====
+# ===== Part1 ② 雑談・アイスブレイク =====
 
-マイクがミュートになっているようです。
-I think you're on mute.
+今そちらは何時ですか？
+What time is it where you are?
 
-音声が途切れています。
-You're breaking up.
+こちらは今、夜の9時です。
+It's nine in the evening here.
 
-少し接続が不安定なようです。
-The connection seems a bit unstable.
+時差があるのに、お時間を合わせていただいてありがとうございます。
+Thanks for working around the time difference.
 
-いったん退出して入り直します。
-Let me drop off and rejoin.
+朝早くからすみません。
+Sorry for the early start on your end.
 
-回線が重いので、カメラをオフにさせてください。
-Let me turn my camera off, the connection is struggling.
+週末はどう過ごされましたか？
+How was your weekend?
 
-画面は見えていますか？
-Can you see my screen?
+こちらは3連休でした。
+We had a three-day weekend here.
 
-画面を共有していただけますか？
-Could you share your screen?
+日本には来られたことがありますか？
+Have you ever been to Japan?
 
-少し下にスクロールしていただけますか？
-Could you scroll down a little?
+次に来られるときは、ぜひご案内します。
+Next time you're over here, I'd be happy to show you around.
 
-音声が聞こえないので、チャットに書きます。
-I can't hear you, so I'll type it in the chat.
+東京は今、桜の季節です。
+It's cherry blossom season in Tokyo right now.
 
-すみません、かぶってしまいました。どうぞ。
-Sorry, we talked over each other. Go ahead.
+こちらは梅雨で、毎日雨が降っています。
+We're in the rainy season here, so it rains every day.
+
+出張はいかがでしたか？
+How was your trip?
+
+時差ぼけはもう大丈夫ですか？
+Are you over the jet lag yet?
+
+最近は在宅と出社、どちらが多いですか？
+Are you mostly working from home these days, or going into the office?
+
+日本食は召し上がりますか？
+Do you eat Japanese food?
+
+お仕事以外では何をされているんですか？
+What do you get up to outside of work?
+
+ようやくお顔が見られてうれしいです。
+It's good to finally put a face to the name.
 
 
-# ===== Part1 ③ 聞き取れないとき・聞き返す =====
+# ===== Part1 ③ 自己紹介・相手を知る =====
 
-すみません、最後の部分が聞き取れませんでした。
-Sorry, I didn't catch the last part.
+改めて自己紹介させてください。
+Let me introduce myself properly.
 
-もう少しゆっくり話していただけますか？
-Could you speak a little more slowly?
+社内システムの設計を担当しています。
+I'm responsible for designing our internal systems.
 
-もう一度言っていただけますか？
-Could you say that again?
+この仕事は10年ほどやっています。
+I've been doing this kind of work for about ten years.
 
-綴りを教えていただけますか？
-Could you spell that for me?
+前職では開発をしていました。
+In my previous role, I was a developer.
 
-チャットに書いていただけると助かります。
-It would help if you could put it in the chat.
+今のチームには3年います。
+I've been with this team for three years.
 
-その単語はどういう意味でしょうか？
-What does that word mean, exactly?
+このプロジェクトでは技術面を担当します。
+On this project, I'll be covering the technical side.
 
-今おっしゃったのは、こういうことでしょうか。
-Let me check I've got that right.
+何かあれば、まず私にご連絡ください。
+If anything comes up, please come to me first.
 
-私の理解が追いついているか確認させてください。
-Let me make sure I'm following you.
+こちらが同じチームの佐藤です。
+This is Sato, from my team.
 
-一度整理させてください。
-Give me a second to sort that out.
+データまわりを担当しているメンバーです。
+They handle everything on the data side.
 
-英語が母語ではないので、分かりにくければ言ってください。
-English isn't my first language, so please tell me if I'm not being clear.
+ご担当はどのような業務ですか？
+What does your role involve?
+
+チームは何名くらいですか？
+How big is your team?
+
+この分野はもう長いのですか？
+Have you been in this field long?
+
+普段はどちらを拠点にされているんですか？
+Where are you normally based?
+
+今日はそちらからどなたが参加されますか？
+Who'll be joining from your side today?
 
 
 # ===== Part1 ④ 意見を述べる =====
@@ -375,40 +405,7 @@ I wanted to raise it early.
 I don't want to blow this out of proportion, but...
 
 
-# ===== Part1 ⑫ 交渉・条件を詰める =====
-
-そこは歩み寄れると思います。
-I think we can meet you halfway on that.
-
-その条件であればお受けできます。
-We can accept that if those are the terms.
-
-逆に、こちらからもお願いしたいことがあります。
-In return, there's something we'd like to ask of you.
-
-何を差し出せば、それが可能になりますか。
-What would we need to give up to make that possible?
-
-どこまでなら対応していただけますか。
-How far can you go on that?
-
-予算の範囲を超えています。
-That's beyond our budget.
-
-その前提だと話が変わってきます。
-That changes things.
-
-まとめて契約する場合はどうなりますか。
-What would it look like if we bundled it together?
-
-今日決めなくても大丈夫です。
-We don't have to decide this today.
-
-お互いにとって良い形にしたいです。
-I want to find something that works for both of us.
-
-
-# ===== Part1 ⑬ 決定・アクションアイテム =====
+# ===== Part1 ⑫ 決定・アクションアイテム =====
 
 これで決まりということでよろしいですか。
 Can we call that decided?
@@ -438,7 +435,7 @@ Let me make sure we're not misaligned anywhere.
 I'll share the minutes afterwards.
 
 
-# ===== Part1 ⑭ 会議を締める・フォローアップ =====
+# ===== Part1 ⑬ 会議を締める・フォローアップ =====
 
 そろそろお時間ですね。
 We're just about at time.
