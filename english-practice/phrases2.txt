@@ -1,4 +1,4 @@
-# 日英対訳フレーズ集 第二弾 — インド出張・対面会議(8月)想定
+# 日英対訳フレーズ集 第二弾 — インド出張・対面会議(8月末)想定
 #
 # 書式は phrases.txt と同じ。「#」で始まる行はコメント(読み上げません)。
 # それ以外の行を、上から「日本語」「英語」の2行1組として読み上げます。
@@ -7,7 +7,265 @@
 # こちらは会議の進め方・場のつくり方に使う表現。例文の中身は o9 との
 # 打ち合わせを想定して作ってあります。第一弾との重複はありません。
 #
-# 想定シーン: インドのオフィスを訪問して行う対面会議。8月(雨季・独立記念日前後)。
+# 想定シーン: インドのオフィスを訪問して行う対面会議。8月末(雨季・独立記念日の直後)。
+#
+# 音声はこのファイルの上から順に作られます。--english-only を付けると
+# 日本語は読み上げず、英語だけで次の順に読みます。
+#
+#   Part2 … 見出し語(通常速度) → 例文(0.75倍) → 例文(通常速度)
+#   Part1 … 例文(0.75倍) → 例文(通常速度)
+#
+# そのため Part2(構文)を先に、Part1(場面別フレーズ)を後ろに置いています。
+# Part2 は「見出し語の組」と「例文の組」で2組1セットなので、組数は必ず偶数にすること。
+
+# ===== Part2 よく使う構文(見出し語 → 例文) =====
+
+〜する傾向がある
+tend to
+
+月末になると納期が遅れる傾向があります。
+Deliveries tend to slip toward the end of the month.
+
+〜する価値がある
+be worth doing
+
+一つの倉庫で試してみる価値はあると思います。
+I think it's worth trying it at one warehouse first.
+
+〜せざるを得ない
+have no choice but to
+
+手作業に戻さざるを得ませんでした。
+We had no choice but to go back to doing it manually.
+
+〜するにつれて
+as
+
+拠点が増えるにつれて、運用が難しくなります。
+As the number of locations grows, operations get harder.
+
+〜すればするほど
+the more, the more
+
+ルールを細かくすればするほど、運用は重くなります。
+The more detailed the rules, the heavier the maintenance.
+
+〜する限り
+as long as
+
+前提が変わらない限り、この計画で問題ありません。
+As long as the assumptions hold, this plan works.
+
+〜がなければ
+without
+
+その情報がなければ判断できません。
+Without that information, we can't make a decision.
+
+〜と引き換えに
+in exchange for
+
+柔軟性と引き換えに、性能を落とすことになります。
+In exchange for flexibility, we'd be giving up performance.
+
+〜する一方で
+while
+
+コストは下がる一方で、運用の手間は増えます。
+While the cost goes down, the operational effort goes up.
+
+〜にもかかわらず
+despite
+
+何度も説明したにもかかわらず、認識が揃っていません。
+Despite explaining it several times, we're still not aligned.
+
+〜という条件で
+on the condition that
+
+期限を延ばすという条件で合意しました。
+We agreed on the condition that the deadline is extended.
+
+〜次第です
+depend on
+
+それはデータの品質次第です。
+That depends on the quality of the data.
+
+〜する必要はない
+there's no need to
+
+今すべてを決める必要はありません。
+There's no need to decide everything now.
+
+〜したほうがいい
+be better off doing
+
+鮮度チェックとロット順序は別々に扱ったほうがいいと思います。
+I think we're better off handling the shelf-life check and the lot order separately.
+
+危うく〜するところだった
+nearly
+
+危うく古いデータで進めるところでした。
+We nearly went ahead with the old data.
+
+〜して以来
+ever since
+
+仕組みを変えて以来、問い合わせが減りました。
+Ever since we changed the process, we've had fewer inquiries.
+
+〜するたびに
+every time
+
+品目を追加するたびに設定が必要になります。
+Every time we add an item, it has to be configured.
+
+〜するまでに
+by the time
+
+稼働するまでに、拠点はさらに増えているはずです。
+By the time we go live, we'll have even more locations.
+
+〜を前提とすると
+assuming
+
+来年稼働を前提とすると、今月中に決める必要があります。
+Assuming we go live next year, we need to decide this month.
+
+〜に関して言えば
+as far as something is concerned
+
+性能に関して言えば、問題ありません。
+As far as performance is concerned, we have no issues.
+
+〜はさておき
+setting aside
+
+コストはさておき、機能面はいかがでしょうか。
+Setting cost aside, how does it look functionally?
+
+〜どころか
+far from
+
+改善どころか、悪化しています。
+Far from improving, it's gotten worse.
+
+せいぜい〜
+at most
+
+これを扱えるのはせいぜい2、3人です。
+We have two or three people who can handle this, at most.
+
+少なくとも〜
+at least
+
+少なくとも半年はかかります。
+It'll take at least six months.
+
+〜かもしれないし、しないかもしれない
+may or may not
+
+対応できるかもしれませんし、できないかもしれません。
+We may or may not be able to handle that.
+
+〜と言っても過言ではない
+it's no exaggeration to say
+
+これが最大の論点だと言っても過言ではありません。
+It's no exaggeration to say this is the biggest issue.
+
+念のため
+just in case
+
+念のため、その前提を書き残しておきましょう。
+Let's write that assumption down, just in case.
+
+〜する余地がある
+there's room to
+
+まだ改善の余地があります。
+There's still room for improvement.
+
+〜に越したことはない
+the sooner, the better
+
+早く決まるに越したことはありません。
+The sooner it's decided, the better.
+
+〜するつもりはない
+have no intention of
+
+仕様を今から変えるつもりはありません。
+We have no intention of changing the spec at this stage.
+
+〜したばかりだ
+have just
+
+この仕組みは導入したばかりです。
+We've just introduced this process.
+
+〜する見込みだ
+be expected to
+
+来月には結論が出る見込みです。
+We expect to have an answer next month.
+
+〜する恐れがある
+there's a risk that
+
+運用が回らなくなる恐れがあります。
+There's a risk that operations won't keep up.
+
+〜のおかげで
+thanks to
+
+事前資料のおかげで議論が早く進みました。
+Thanks to the materials you sent, the discussion moved quickly.
+
+〜のせいで
+because of
+
+定義があいまいだったせいで、認識がずれていました。
+Because the definition was vague, we ended up misaligned.
+
+〜と思われる
+it appears that
+
+原因はデータ側にあると思われます。
+It appears the cause is on the data side.
+
+〜と理解しています
+my understanding is that
+
+次のリリースに含まれると理解しています。
+My understanding is that it's included in the next release.
+
+〜という点で
+in the sense that
+
+運用が減るという点では有効です。
+It helps, in the sense that it reduces manual work.
+
+結局は〜に尽きる
+it comes down to
+
+結局は優先順位に尽きます。
+In the end, it comes down to priorities.
+
+あえて言うなら
+if I had to pick
+
+あえて言うなら、こちらの案です。
+If I had to pick, I'd go with this one.
+
+〜する立場にない
+be not in a position to
+
+私はそれを決める立場にありません。
+I'm not in a position to decide that.
+
 
 # ===== Part1 ① 会議を始める・場をつくる =====
 
@@ -71,8 +329,8 @@ August in Japan is much more humid than this.
 朝の交通量には驚きました。
 The traffic this morning was something else.
 
-独立記念日が近いですね。
-Independence Day is coming up, isn't it?
+独立記念日は少し前でしたね。
+Independence Day was a couple of weeks ago, wasn't it?
 
 こちらの料理はどれもおいしいです。
 The food here has been excellent.
@@ -466,252 +724,3 @@ Feel free to email me if anything comes up.
 
 引き続きよろしくお願いします。
 I look forward to working with you on this.
-
-
-# ===== Part2 よく使う構文(見出し語 → 例文) =====
-
-〜する傾向がある
-tend to
-
-月末になると納期が遅れる傾向があります。
-Deliveries tend to slip toward the end of the month.
-
-〜する価値がある
-be worth doing
-
-一つの倉庫で試してみる価値はあると思います。
-I think it's worth trying it at one warehouse first.
-
-〜せざるを得ない
-have no choice but to
-
-手作業に戻さざるを得ませんでした。
-We had no choice but to go back to doing it manually.
-
-〜するにつれて
-as
-
-拠点が増えるにつれて、運用が難しくなります。
-As the number of locations grows, operations get harder.
-
-〜すればするほど
-the more, the more
-
-ルールを細かくすればするほど、運用は重くなります。
-The more detailed the rules, the heavier the maintenance.
-
-〜する限り
-as long as
-
-前提が変わらない限り、この計画で問題ありません。
-As long as the assumptions hold, this plan works.
-
-〜がなければ
-without
-
-その情報がなければ判断できません。
-Without that information, we can't make a decision.
-
-〜と引き換えに
-in exchange for
-
-柔軟性と引き換えに、性能を落とすことになります。
-In exchange for flexibility, we'd be giving up performance.
-
-〜する一方で
-while
-
-コストは下がる一方で、運用の手間は増えます。
-While the cost goes down, the operational effort goes up.
-
-〜にもかかわらず
-despite
-
-何度も説明したにもかかわらず、認識が揃っていません。
-Despite explaining it several times, we're still not aligned.
-
-〜という条件で
-on the condition that
-
-期限を延ばすという条件で合意しました。
-We agreed on the condition that the deadline is extended.
-
-〜次第です
-depend on
-
-それはデータの品質次第です。
-That depends on the quality of the data.
-
-〜する必要はない
-there's no need to
-
-今すべてを決める必要はありません。
-There's no need to decide everything now.
-
-〜したほうがいい
-be better off doing
-
-鮮度チェックとロット順序は別々に扱ったほうがいいと思います。
-I think we're better off handling the shelf-life check and the lot order separately.
-
-危うく〜するところだった
-nearly
-
-危うく古いデータで進めるところでした。
-We nearly went ahead with the old data.
-
-〜して以来
-ever since
-
-仕組みを変えて以来、問い合わせが減りました。
-Ever since we changed the process, we've had fewer inquiries.
-
-〜するたびに
-every time
-
-品目を追加するたびに設定が必要になります。
-Every time we add an item, it has to be configured.
-
-〜するまでに
-by the time
-
-稼働するまでに、拠点はさらに増えているはずです。
-By the time we go live, we'll have even more locations.
-
-〜を前提とすると
-assuming
-
-来年稼働を前提とすると、今月中に決める必要があります。
-Assuming we go live next year, we need to decide this month.
-
-〜に関して言えば
-as far as something is concerned
-
-性能に関して言えば、問題ありません。
-As far as performance is concerned, we have no issues.
-
-〜はさておき
-setting aside
-
-コストはさておき、機能面はいかがでしょうか。
-Setting cost aside, how does it look functionally?
-
-〜どころか
-far from
-
-改善どころか、悪化しています。
-Far from improving, it's gotten worse.
-
-せいぜい〜
-at most
-
-これを扱えるのはせいぜい2、3人です。
-We have two or three people who can handle this, at most.
-
-少なくとも〜
-at least
-
-少なくとも半年はかかります。
-It'll take at least six months.
-
-〜かもしれないし、しないかもしれない
-may or may not
-
-対応できるかもしれませんし、できないかもしれません。
-We may or may not be able to handle that.
-
-〜と言っても過言ではない
-it's no exaggeration to say
-
-これが最大の論点だと言っても過言ではありません。
-It's no exaggeration to say this is the biggest issue.
-
-念のため
-just in case
-
-念のため、その前提を書き残しておきましょう。
-Let's write that assumption down, just in case.
-
-〜する余地がある
-there's room to
-
-まだ改善の余地があります。
-There's still room for improvement.
-
-〜に越したことはない
-the sooner, the better
-
-早く決まるに越したことはありません。
-The sooner it's decided, the better.
-
-〜するつもりはない
-have no intention of
-
-仕様を今から変えるつもりはありません。
-We have no intention of changing the spec at this stage.
-
-〜したばかりだ
-have just
-
-この仕組みは導入したばかりです。
-We've just introduced this process.
-
-〜する見込みだ
-be expected to
-
-来月には結論が出る見込みです。
-We expect to have an answer next month.
-
-〜する恐れがある
-there's a risk that
-
-運用が回らなくなる恐れがあります。
-There's a risk that operations won't keep up.
-
-〜のおかげで
-thanks to
-
-事前資料のおかげで議論が早く進みました。
-Thanks to the materials you sent, the discussion moved quickly.
-
-〜のせいで
-because of
-
-定義があいまいだったせいで、認識がずれていました。
-Because the definition was vague, we ended up misaligned.
-
-〜と思われる
-it appears that
-
-原因はデータ側にあると思われます。
-It appears the cause is on the data side.
-
-〜と理解しています
-my understanding is that
-
-次のリリースに含まれると理解しています。
-My understanding is that it's included in the next release.
-
-〜という点で
-in the sense that
-
-運用が減るという点では有効です。
-It helps, in the sense that it reduces manual work.
-
-結局は〜に尽きる
-it comes down to
-
-結局は優先順位に尽きます。
-In the end, it comes down to priorities.
-
-あえて言うなら
-if I had to pick
-
-あえて言うなら、こちらの案です。
-If I had to pick, I'd go with this one.
-
-〜する立場にない
-be not in a position to
-
-私はそれを決める立場にありません。
-I'm not in a position to decide that.

@@ -1,0 +1,669 @@
+# 音声と同じ順序の日英併記テキスト(聞きながら目で追う用)
+# 番号は音声の再生順です。
+
+
+# ===== Part2 よく使う構文(見出し語 → 例文) =====
+
+001  tend to
+     〜する傾向がある
+     Deliveries tend to slip toward the end of the month.
+     月末になると納期が遅れる傾向があります。
+
+002  be worth doing
+     〜する価値がある
+     I think it's worth trying it at one warehouse first.
+     一つの倉庫で試してみる価値はあると思います。
+
+003  have no choice but to
+     〜せざるを得ない
+     We had no choice but to go back to doing it manually.
+     手作業に戻さざるを得ませんでした。
+
+004  as
+     〜するにつれて
+     As the number of locations grows, operations get harder.
+     拠点が増えるにつれて、運用が難しくなります。
+
+005  the more, the more
+     〜すればするほど
+     The more detailed the rules, the heavier the maintenance.
+     ルールを細かくすればするほど、運用は重くなります。
+
+006  as long as
+     〜する限り
+     As long as the assumptions hold, this plan works.
+     前提が変わらない限り、この計画で問題ありません。
+
+007  without
+     〜がなければ
+     Without that information, we can't make a decision.
+     その情報がなければ判断できません。
+
+008  in exchange for
+     〜と引き換えに
+     In exchange for flexibility, we'd be giving up performance.
+     柔軟性と引き換えに、性能を落とすことになります。
+
+009  while
+     〜する一方で
+     While the cost goes down, the operational effort goes up.
+     コストは下がる一方で、運用の手間は増えます。
+
+010  despite
+     〜にもかかわらず
+     Despite explaining it several times, we're still not aligned.
+     何度も説明したにもかかわらず、認識が揃っていません。
+
+011  on the condition that
+     〜という条件で
+     We agreed on the condition that the deadline is extended.
+     期限を延ばすという条件で合意しました。
+
+012  depend on
+     〜次第です
+     That depends on the quality of the data.
+     それはデータの品質次第です。
+
+013  there's no need to
+     〜する必要はない
+     There's no need to decide everything now.
+     今すべてを決める必要はありません。
+
+014  be better off doing
+     〜したほうがいい
+     I think we're better off handling the shelf-life check and the lot order separately.
+     鮮度チェックとロット順序は別々に扱ったほうがいいと思います。
+
+015  nearly
+     危うく〜するところだった
+     We nearly went ahead with the old data.
+     危うく古いデータで進めるところでした。
+
+016  ever since
+     〜して以来
+     Ever since we changed the process, we've had fewer inquiries.
+     仕組みを変えて以来、問い合わせが減りました。
+
+017  every time
+     〜するたびに
+     Every time we add an item, it has to be configured.
+     品目を追加するたびに設定が必要になります。
+
+018  by the time
+     〜するまでに
+     By the time we go live, we'll have even more locations.
+     稼働するまでに、拠点はさらに増えているはずです。
+
+019  assuming
+     〜を前提とすると
+     Assuming we go live next year, we need to decide this month.
+     来年稼働を前提とすると、今月中に決める必要があります。
+
+020  as far as something is concerned
+     〜に関して言えば
+     As far as performance is concerned, we have no issues.
+     性能に関して言えば、問題ありません。
+
+021  setting aside
+     〜はさておき
+     Setting cost aside, how does it look functionally?
+     コストはさておき、機能面はいかがでしょうか。
+
+022  far from
+     〜どころか
+     Far from improving, it's gotten worse.
+     改善どころか、悪化しています。
+
+023  at most
+     せいぜい〜
+     We have two or three people who can handle this, at most.
+     これを扱えるのはせいぜい2、3人です。
+
+024  at least
+     少なくとも〜
+     It'll take at least six months.
+     少なくとも半年はかかります。
+
+025  may or may not
+     〜かもしれないし、しないかもしれない
+     We may or may not be able to handle that.
+     対応できるかもしれませんし、できないかもしれません。
+
+026  it's no exaggeration to say
+     〜と言っても過言ではない
+     It's no exaggeration to say this is the biggest issue.
+     これが最大の論点だと言っても過言ではありません。
+
+027  just in case
+     念のため
+     Let's write that assumption down, just in case.
+     念のため、その前提を書き残しておきましょう。
+
+028  there's room to
+     〜する余地がある
+     There's still room for improvement.
+     まだ改善の余地があります。
+
+029  the sooner, the better
+     〜に越したことはない
+     The sooner it's decided, the better.
+     早く決まるに越したことはありません。
+
+030  have no intention of
+     〜するつもりはない
+     We have no intention of changing the spec at this stage.
+     仕様を今から変えるつもりはありません。
+
+031  have just
+     〜したばかりだ
+     We've just introduced this process.
+     この仕組みは導入したばかりです。
+
+032  be expected to
+     〜する見込みだ
+     We expect to have an answer next month.
+     来月には結論が出る見込みです。
+
+033  there's a risk that
+     〜する恐れがある
+     There's a risk that operations won't keep up.
+     運用が回らなくなる恐れがあります。
+
+034  thanks to
+     〜のおかげで
+     Thanks to the materials you sent, the discussion moved quickly.
+     事前資料のおかげで議論が早く進みました。
+
+035  because of
+     〜のせいで
+     Because the definition was vague, we ended up misaligned.
+     定義があいまいだったせいで、認識がずれていました。
+
+036  it appears that
+     〜と思われる
+     It appears the cause is on the data side.
+     原因はデータ側にあると思われます。
+
+037  my understanding is that
+     〜と理解しています
+     My understanding is that it's included in the next release.
+     次のリリースに含まれると理解しています。
+
+038  in the sense that
+     〜という点で
+     It helps, in the sense that it reduces manual work.
+     運用が減るという点では有効です。
+
+039  it comes down to
+     結局は〜に尽きる
+     In the end, it comes down to priorities.
+     結局は優先順位に尽きます。
+
+040  if I had to pick
+     あえて言うなら
+     If I had to pick, I'd go with this one.
+     あえて言うなら、こちらの案です。
+
+041  be not in a position to
+     〜する立場にない
+     I'm not in a position to decide that.
+     私はそれを決める立場にありません。
+
+
+# ===== Part1 ① 会議を始める・場をつくる =====
+
+042  Thank you for having us today.
+     本日はお招きいただきありがとうございます。
+
+043  Looks like we're all here, so let's get started.
+     全員そろったようなので、始めましょうか。
+
+044  Before we dive in, should we do quick introductions?
+     本題に入る前に、簡単に自己紹介をしましょうか。
+
+045  Let me start by confirming what we want to get out of today.
+     今日のゴールを最初に確認させてください。
+
+046  There are three things I'd like to cover today, all around transfer planning.
+     今日は倉庫間移動の計画について3つ扱いたいことがあります。
+
+047  The agenda is the same one I sent in advance.
+     議題は事前にお送りしたものと同じです。
+
+048  Is there anything else you'd like to add to the agenda?
+     ほかに扱いたい議題はありますか？
+
+049  Feel free to stop me at any point.
+     途中でも遠慮なく止めてください。
+
+050  I'll be taking notes as we go, if that's all right.
+     メモを取らせていただきます。
+
+051  Do you mind if I use the whiteboard?
+     ホワイトボードを使ってもよろしいですか。
+
+
+# ===== Part1 ② 雑談・アイスブレイク(インド出張) =====
+
+052  We got in last night.
+     昨日の夜に着きました。
+
+053  It was a long flight from Japan.
+     日本からのフライトは長かったです。
+
+054  This is my first time in India.
+     インドに来るのは初めてです。
+
+055  It's great to finally meet you in person.
+     直接お会いできてうれしいです。
+
+056  It's nice to talk like this instead of through a screen.
+     画面越しではなく、こうしてお話しできるのはいいですね。
+
+057  It's cooler here than I expected.
+     思っていたより涼しいですね。
+
+058  So this is the monsoon season.
+     今は雨季なんですね。
+
+059  August in Japan is much more humid than this.
+     日本の8月はもっと蒸し暑いです。
+
+060  The traffic this morning was something else.
+     朝の交通量には驚きました。
+
+061  Independence Day was a couple of weeks ago, wasn't it?
+     独立記念日は少し前でしたね。
+
+062  The food here has been excellent.
+     こちらの料理はどれもおいしいです。
+
+063  I'm fine with spicy food.
+     辛いものは大丈夫です。
+
+064  Is there anywhere you'd recommend?
+     おすすめのお店はありますか。
+
+065  Do you follow cricket?
+     クリケットはご覧になりますか。
+
+066  We're here for three days this time.
+     今回は3日間の滞在です。
+
+067  Next time, you should come and visit us in Japan.
+     次はぜひ日本にお越しください。
+
+
+# ===== Part1 ③ 自己紹介・相手を知る =====
+
+068  Let me introduce myself properly.
+     改めて自己紹介させてください。
+
+069  Here's my card.
+     名刺をお渡しします。
+
+070  I work on internal systems design at Suntory.
+     サントリーで社内システムの設計を担当しています。
+
+071  I've spent a lot of time on demand planning and inventory systems.
+     需要計画と在庫まわりのシステムを長く見ています。
+
+072  I've been doing this kind of work for about ten years.
+     この仕事は10年ほどやっています。
+
+073  In my previous role, I was a developer.
+     前職では開発をしていました。
+
+074  If anything comes up, please come to me first.
+     何かあれば、まず私にご連絡ください。
+
+075  This is Sato, from my team.
+     こちらが同じチームの佐藤です。
+
+076  They handle everything on the data side.
+     データまわりを担当しているメンバーです。
+
+077  What does your role involve?
+     ご担当はどのような業務ですか。
+
+078  How big is your team?
+     チームは何名くらいですか。
+
+079  Have you been at o9 long?
+     o9には長くいらっしゃるのですか。
+
+080  Which office are you normally based out of?
+     普段はどちらのオフィスにいらっしゃいますか。
+
+081  Is this your first time working with a Japanese customer?
+     日本のお客様を担当されるのは初めてですか。
+
+
+# ===== Part1 ④ 意見を述べる =====
+
+082  In my view, this is a data model issue.
+     私の考えでは、これはデータモデルの問題です。
+
+083  Personally, I'd go with the second design.
+     個人的には、後者の設計のほうがよいと思います。
+
+084  From what I see on the ground, I don't think that would survive in operation.
+     現場の感覚としては、それは運用に載らないと思います。
+
+085  One thing I keep coming back to is the master data workload.
+     一つ引っかかっているのは、マスタ運用の負荷です。
+
+086  That's the part I care about most.
+     私が一番重視しているのはそこです。
+
+087  I don't want to overstate it, but I'm against it.
+     強く言うつもりはありませんが、私は反対です。
+
+088  Can I be honest with you?
+     正直に申し上げてもよろしいですか。
+
+089  This is my opinion, not a company decision.
+     これは私の意見であって、社としての決定ではありません。
+
+090  My thinking isn't fully formed, but let me share it anyway.
+     まだ考えがまとまっていませんが、共有します。
+
+091  Let me tell you where my understanding is right now.
+     現時点での私の理解をお話しします。
+
+
+# ===== Part1 ⑤ 賛成・保留・反対 =====
+
+092  I'm completely on board with that.
+     それには全面的に賛成です。
+
+093  I agree with the direction.
+     方向性としては賛成です。
+
+094  I agree with half of that, but the other half worries me.
+     半分は賛成ですが、半分は懸念があります。
+
+095  I agree in principle, but with one condition.
+     原則として賛成ですが、条件が一つあります。
+
+096  I see what you mean, but I see it differently.
+     おっしゃることは分かりますが、私の見方は違います。
+
+097  I hate to say it, but we can't accept that design.
+     申し上げにくいのですが、その設計は受け入れられません。
+
+098  I can't agree with that assumption.
+     その前提には同意できません。
+
+099  I don't have enough to make a call yet.
+     まだ判断できる材料がありません。
+
+100  At this stage I can't say yes or no.
+     今の段階では賛成も反対もできません。
+
+101  I'd like to leave that one open.
+     その点は保留にさせてください。
+
+102  Let me take that back to my team.
+     一度持ち帰らせてください。
+
+103  I'm not pushing back, I just want to understand.
+     反論ではなく、理解したいだけです。
+
+
+# ===== Part1 ⑥ 提案する・代替案を出す =====
+
+104  I have a suggestion.
+     一つ提案があります。
+
+105  How about we do it this way?
+     こうするのはどうでしょうか。
+
+106  I've thought about a different way to do this.
+     別のやり方を考えてみました。
+
+107  Can I offer a middle ground?
+     折衷案を出してもよろしいですか。
+
+108  Why don't we try it at one warehouse first?
+     まず一つの倉庫で試してみませんか。
+
+109  I'd suggest we do this in phases.
+     段階的に進めることを提案します。
+
+110  For phase one, let's limit it to the essentials.
+     第一段階では最低限の機能に絞りましょう。
+
+111  Instead, we'll handle the pre-processing on our side.
+     その代わりに、前処理はこちらで対応します。
+
+112  I don't think we need to build both approaches.
+     両方の方式を作る必要はないと思います。
+
+113  I think we should swap the order.
+     順番を入れ替えたほうがよさそうです。
+
+
+# ===== Part1 ⑦ 依頼する・断る =====
+
+114  Could I ask you for one thing?
+     一つお願いしてもよろしいですか。
+
+115  It would help if we could get the design document in advance.
+     設計書を事前にいただけると助かります。
+
+116  Could you get back to us by next week?
+     来週までにご回答いただけますか。
+
+117  Could you prioritize this for us?
+     これを優先していただけませんか。
+
+118  I know I'm asking a lot here.
+     無理を承知でお願いしています。
+
+119  I appreciate the offer, but we'll pass this time.
+     お気持ちはありがたいのですが、今回は見送ります。
+
+120  Unfortunately, we can't go along with that approach.
+     残念ですが、その進め方はお受けできません。
+
+121  We don't have the resources for that right now.
+     今のリソースでは対応できません。
+
+122  I can't promise you that.
+     できるとは申し上げられません。
+
+123  Would it be possible to push the deadline?
+     期限を延ばしていただくことは可能でしょうか。
+
+
+# ===== Part1 ⑧ 説明する・例を挙げる・言い換える =====
+
+124  Let me give you a concrete example.
+     具体例を挙げます。
+
+125  For instance, here's the kind of case I mean.
+     たとえば、こういうケースです。
+
+126  To put it another way, ...
+     別の言い方をすると。
+
+127  Put simply, it comes down to this.
+     簡単に言うと、こういうことです。
+
+128  Let me give you some background on the business side first.
+     まず業務の背景から説明させてください。
+
+129  Let me take it step by step, from the plant to the customer.
+     工場から得意先まで、順を追って説明します。
+
+130  Let me break it into three parts.
+     三つに分けて説明します。
+
+131  This is the most important part.
+     ここが一番大事な点です。
+
+132  I'll skip the details for now.
+     細かい話は割愛します。
+
+133  I think it's faster if I draw it on the whiteboard.
+     ホワイトボードに描いたほうが早いと思います。
+
+
+# ===== Part1 ⑨ 議論を仕切る・割って入る =====
+
+134  Could I jump in for a second?
+     少しよろしいですか。
+
+135  Sorry to interrupt.
+     話を遮ってすみません。
+
+136  Let me take stock of where we are.
+     一度、今の状況を整理させてください。
+
+137  I feel like we've drifted from the main topic.
+     少し本題から離れている気がします。
+
+138  Let's get back to the main point.
+     本題に戻しましょう。
+
+139  Let's take that under the next agenda item.
+     その論点は次の議題で扱いましょう。
+
+140  Could I get your thoughts on this?
+     ご意見をうかがってもよろしいですか。
+
+141  Is there anyone who hasn't had a chance to speak?
+     まだ発言されていない方はいますか。
+
+142  Shall we go one at a time?
+     一人ずつ話しませんか。
+
+143  We're running behind, so let's move on.
+     時間が押しているので、先に進みます。
+
+
+# ===== Part1 ⑩ 数字・期間・傾向を語る =====
+
+144  Shipment volume is up by roughly thirty percent.
+     出荷量はおおよそ3割ほど増えています。
+
+145  It's twenty percent higher than the same period last year.
+     去年の同じ時期と比べて2割多いです。
+
+146  Inventory has been flat.
+     在庫は横ばいで推移しています。
+
+147  The number of locations has been climbing steadily.
+     拠点の数は右肩上がりに増えています。
+
+148  Demand spikes sharply at the end of the month.
+     需要は月末に大きく跳ね上がります。
+
+149  Go-live would be April at the earliest, June at the latest.
+     早ければ4月、遅くとも6月の稼働です。
+
+150  I'd say give us about three months for validation.
+     検証には3ヶ月ほど見ていただければと思います。
+
+151  It's taking twice as long as we expected.
+     想定の倍の時間がかかっています。
+
+152  I'd treat that as within the margin of error.
+     誤差の範囲だと考えています。
+
+153  This is a rough estimate only.
+     あくまで概算です。
+
+
+# ===== Part1 ⑪ 懸念・リスク・課題を出す =====
+
+154  I have one concern.
+     一点、懸念があります。
+
+155  There's a risk I'd like to flag.
+     リスクとして挙げておきたいことがあります。
+
+156  I'd like us to plan for the worst case.
+     最悪の場合を想定しておきたいです。
+
+157  This isn't a go-live issue, it's what comes after.
+     これは稼働直後ではなく、その先の問題です。
+
+158  The volume of master data is what worries me most here.
+     マスタの量がここでの一番の不安要素です。
+
+159  If that assumption breaks, the whole plan breaks with it.
+     前提が崩れると、計画全体が崩れます。
+
+160  We're seeing effects we didn't anticipate.
+     想定していなかった影響が出ています。
+
+161  This one is on our side.
+     これは我々の側の課題です。
+
+162  I wanted to raise it early.
+     早めに共有しておきたいと思いました。
+
+163  I don't want to blow this out of proportion, but...
+     大ごとにするつもりはありませんが。
+
+
+# ===== Part1 ⑫ 決定・アクションアイテム =====
+
+164  Can we call that decided?
+     これで決まりということでよろしいですか。
+
+165  All right, we'll go in that direction.
+     では、その方向で進めます。
+
+166  Who's going to own this?
+     これは誰が担当しますか。
+
+167  We'll take that one.
+     それはこちらで引き取ります。
+
+168  When should we set the deadline?
+     期限はいつにしましょうか。
+
+169  We'll send it over by Friday.
+     金曜までにこちらからお送りします。
+
+170  Let me confirm what's still undecided.
+     まだ決まっていないことを確認させてください。
+
+171  Let me make sure we're not misaligned anywhere.
+     認識のずれがないか確認させてください。
+
+172  I'll share the minutes afterwards.
+     議事録は後ほど共有します。
+
+
+# ===== Part1 ⑬ 会議を締める・フォローアップ =====
+
+173  We're just about at time.
+     そろそろお時間ですね。
+
+174  Anything else before we finish?
+     最後に何かありますか。
+
+175  I thought that was a productive discussion.
+     今日は建設的な議論ができました。
+
+176  Same time again tomorrow?
+     明日も同じ時間でよろしいですか。
+
+177  Thank you for your time and your hospitality today.
+     今日はお時間とおもてなしをありがとうございました。
+
+178  I'll write everything up and send it over once I'm back in Japan.
+     帰国したら、内容を整理してお送りします。
+
+179  Let's pick this up next time.
+     続きは次回にしましょう。
+
+180  Feel free to email me if anything comes up.
+     何かあればメールでご連絡ください。
+
+181  I look forward to working with you on this.
+     引き続きよろしくお願いします。
